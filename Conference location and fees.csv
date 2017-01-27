@@ -1,0 +1,28 @@
+Year,Year/Site/Hotel,Attendance,Reg fee,adjusted fee,projected attendance
+1989,1989/New Orleans/Marriott,975,$135 ,262.22,1000
+1990,1990/Baltimore/Hyatt Regency,1037,$125 ,230.35,1000
+1991,1991/Chicago/Palmer House,1141,$150 ,265.26,1000
+1992,1992/Los Angeles/Hilton,713,$150 ,257.5,1000
+1993,1993/St Louis/Hyatt Regency,1295,$175 ,291.69,1200
+1994,1994/San Antonio/Hyatt Regency,1267,$175 ,284.41,1200
+1995,1995/Pittsburgh/Hilton and Towers,1211,$180 ,284.47,1200
+1996,1996/San Francisco/Hilton and Towers,1246,$180 ,276.31,1200
+1997,1997/Atlanta/Hilton,1479,$180 ,270.12,1500
+1998,1998/Chicago/Palmer House Hilton,1621,$180 ,265.97,1600
+1999,1999/Orlando/Renaissance,1522,$210 ,303.6,1600
+2000,2000/Washington/Hilton,1949,$210 ,293.72,2000
+2001,2001/Chicago/Palmer House Hilton,1873,$210 ,285.6,1900
+2002,2002/Salt Lake City/Grand America ,1453,$210 ,281.15,1500
+2003,2003/Chicago/Palmer House Hilton,1697,$225 ,294.52,1700
+2004,2004/New Orleans/Hyatt,1765,$250 ,318.76,1700
+2005,2005/St. Louis/Marriott Renaissance ,1556,$250 ,308.31,1600
+2006,2006/Philadelphia/Downtown Marriott,1768,$250 ,298.68,1700
+2007,2007/Denver/Hyatt Regency,1803,$250 ,290.41,1800
+2008,2008/San Antonio/Marriott Rivercenter,1839,$250 ,279.67,1800
+2009,2009/ Washington/D. C. Grand Hyatt,1841,$350 ,392.93,1800
+2010,2010/Kansas City/Marriott,1630,$350 ,386.59,1500
+2011,2011/Phoenix/Sheraton,1899,$375 ,401.53,1800
+2012,2012/Boston/Sheraton Boston,2000,$375 ,393.39,2000
+2013,2013/New Orleans/Sheraton New Orleans,2135,$375 ,387.71,2000
+2014,2014/Denver/Sheraton Denver Downtown,1919,$405 ,412.04,2000
+2015,2015/Chicago/Sheraton Tower & Hotel,2085,$405 ,411.55,2000

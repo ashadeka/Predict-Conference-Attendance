@@ -1,0 +1,862 @@
+Institution,ZIP,Address1,Address2,Address3,City,State,County,Country,ContactNumber,Contact
+Central Arizona College,85128,8470 N. Overfield Road,,,Coolidge,AZ,Pinal County,US,77,{C1FD26EC-2A69-E111-92F0-005056837252}
+University of South Florida,33620,4202 E. Fowler Avenue ALN 241,,,Tampa,FL,,US,172514,{66540495-B127-E411-904E-0050569C32C4}
+Wittenberg University,45501,University Honors Program,PO Box 720,,Springfield,OH,Clark County,US,170184,{0E1F71BE-EC26-E311-BD49-0050569C003B}
+University of Indianapolis,46227,Esch Hall 210,1400 East Hanna Ave,,Indianapolis,IN,Marion County,US,89059,{4E1FCF3E-7A0D-E211-AF59-0050569C003B}
+Union College-Nebraska,68506,Director of Union Scholars,3800 S. 48th St.,,Lincoln,NE,Lancaster County,US,619,{BFFD26EC-2A69-E111-92F0-005056837252}
+Wilkes University,18766,84 West South St.,,,Wilkes-Barre,PA,,US,172726,{EC98BC7C-9733-E411-904E-0050569C32C4}
+Snow College,84627,150 East College Avenue,,,Ephraim,UT,Marshall County,US,67406,{C0FD26EC-2A69-E111-92F0-005056837252}
+Brigham Young University-Hawaii,96762,University Honors Program,55-220 Kulanvi St.,,Laie,HI,Honolulu County,US,54,{C7FD26EC-2A69-E111-92F0-005056837252}
+College of Mount Saint Vincent,,,,,,,,US,173034,{C4CAC371-0C3D-E411-904E-0050569C32C4}
+Oklahoma Baptist University,74804,Box 61156,500 West University,,Shawnee,OK,Pottawatomie County,US,172167,{8F4D9137-4DF2-E311-8578-0050569C32C4}
+Estrella Mountain Community College,85323-1000,3000 N. Dysart Rd.,,,Avondale,AZ,,US,2691,{BE97F957-2B69-E111-92F0-005056837252}
+Wisconsin Lutheran College,53226,8800 W. Bluemound Rd.,,,Milwaukee,WI,,US,173201,{F9D680C0-2B45-E411-904E-0050569C32C4}
+City University of New York-Baruch College,10010,"Director, Honors Program","One Bernard Baruch Way, Box J-306",,New York,NY,New York County,US,125779,{4A8A8BBD-3B8B-E211-B10B-0050569C003B}
+State University of New York-Plattsburgh,12901,101 Broad St.,,,Plattsburgh,NY,Clinton County,US,2287,{1A5D36E0-2A69-E111-92F0-005056837252}
+University of Colorado at Colorado Springs,80918,,1420 Austin Bluffs Parkway,Columbine Hall 3043,Colorado Springs,CO,El Paso County,US,173233,{67B46546-274B-E411-8997-0050569C32C4}
+University of Wyoming,82071,Dept 3413,1000 E. Univeristy Ave.,,Laramie,WY,Albany County,US,78457,{10A52E2B-4AEB-E111-89B0-0050569C003B}
+University of Southern Maine,04104-9300,P.O. Box 9300,96 Falmouth St.,,Portland,ME,Cumberland County,US,2285,{CAFD26EC-2A69-E111-92F0-005056837252}
+Lasell College,02466,Honors Program,1844 Commonwealth Ave.,,Auburndale,MA,Middlesex County,US,313,{CBFD26EC-2A69-E111-92F0-005056837252}
+Albertus Magnus College,06511,700 Prospect St.,204 Weldon Hall,,New Haven,CT,New Haven County,US,4,{CCFD26EC-2A69-E111-92F0-005056837252}
+Alfred University,14802,1 Saxon Drive Pschology Department,,,Alfred,NY,Allegany County,US,7,{E0AF21F2-2A69-E111-92F0-005056837252}
+California University of Pennsylvania,15419,Honors Program,"250 University Ave., Box 100",,California,PA,Washington County,US,66980,{D6FD26EC-2A69-E111-92F0-005056837252}
+Carson-Newman University,37760,1620 Russell Avenue,Campus Box 71976,,Jefferson City,TN,Jefferson County,US,67196,{E1AF21F2-2A69-E111-92F0-005056837252}
+Community Colleges of Spokane,99217-6000,"510 N. Riverpoint Blvd, MS 1009",PO Box 6000,,Spokane,WA,,US,124237,{B89F8A9F-1985-E211-B10B-0050569C003B}
+Neosho County Community College,66720,800 W. 14th St.,,,Chanute,KS,Neosho County,US,81560,{F41D62EC-5FF7-E111-AF58-0050569C003B}
+College of the Ouachitas,72104-0816,One College Cir,,,Malvern,AR,,US,169266,{4E3B28BE-3A16-E311-BD48-0050569C003B}
+Concordia University Irvine,92612,1530 Concordia West,,,Irvine,CA,,US,67864,{C8E4FE51-2B69-E111-92F0-005056837252}
+Westminster College,84105,Honors Program,1840 S. 1300 E.,,Salt Lake City,UT,Salt Lake County,US,797,{06AF21F2-2A69-E111-92F0-005056837252}
+Pace University,10570,861 Bedford Road Mortola Library 3rd FL,,,Pleasantville,NY,New York County,US,170613,{86DAA8D5-362D-E311-BD49-0050569C003B}
+University of North Carolina at Asheville,28804-8509,"Karpen Hall 141, CPO 2150",One University Heights,,Asheville,NC,Buncombe County,US,123389,{9C72BADA-4980-E211-B10B-0050569C003B}
+Lewis University,60446-2200,One University Parkway,,,Romeoville,IL,Will County,US,2162,{D0FD26EC-2A69-E111-92F0-005056837252}
+Oklahoma Christian University,73136-1100,Director - Honors Program,P.O. Box 11000,,Oklahoma City,OK,Oklahoma County,US,117470,{680169A8-C576-E211-B10B-0050569C003B}
+Fairmont State College,26554,Honors Program,1201 Locust Ave.,,Fairmont,WV,Marion County,US,190,{E2AF21F2-2A69-E111-92F0-005056837252}
+Orange Coast College,92626,2701 Fairview Rd.,Watson Hall 433,,Costa Mesa,CA,Orange County,US,172244,{498D15B9-D506-E411-8578-0050569C32C4}
+State University of New York-Potsdam,13676,Honors Program,44 Pierrepoint Ave.,,Potsdam,NY,St. Lawrence County,US,574,{D1FD26EC-2A69-E111-92F0-005056837252}
+Fullerton College,92832,321 E Chapman Ave.,,,Fullerton,CA,Orange County,US,2258,{D2FD26EC-2A69-E111-92F0-005056837252}
+University of Southern Indiana,47712-3597,Honors Program,8600 University Blvd.,Ed. Center Suite 0114,Evansville,IN,Vanderburgh County,US,844,{D4FD26EC-2A69-E111-92F0-005056837252}
+Barton College,27893-7000,200 ACC Drive NE,,,Wilson,NC,Wilson County,US,170117,{A6193675-F825-E311-BD49-0050569C003B}
+Austin Peay State University,37052,601 College Street P. O. 4505,,,Clarksville,TN,Montgomery County,US,67449,{1E5D36E0-2A69-E111-92F0-005056837252}
+Tennessee Technological University,38505,Box 5124,,,Cookeville,TN,Putnam County,US,588,{01AF21F2-2A69-E111-92F0-005056837252}
+Our Lady of the Lake University,78207,411 SW 24th St.,,,San Antonio,TX,Bexar County,US,2284,{E9AF21F2-2A69-E111-92F0-005056837252}
+Caldwell College,07006,9 Ryerson Ave.,,,Caldwell,NJ,Essex County,US,66,{02AF21F2-2A69-E111-92F0-005056837252}
+Niagara University,14109,University Honors,Lewiston Road P.O. Box 1935,,Niagara University,NY,Niagara County,US,414,{03AF21F2-2A69-E111-92F0-005056837252}
+Eureka College,61530,300 E. College Avenue,,,Eureka,IL,Woodford County,US,1412,{EFAF21F2-2A69-E111-92F0-005056837252}
+Onondaga Community College-SUNY,13215-4585,Honors/Phi Theta Kappa,262 A Ferrante Hall,4585 West Seneca Turnpike,Syracuse,NY,Onondaga County,US,171158,{3EA4C30D-A931-E311-842D-0050569C003B}
+The College of New Rochelle,10805,Honors Director,29 Castle Place,,New Rochelle,NY,Westchester County,US,1059,{04AF21F2-2A69-E111-92F0-005056837252}
+University of Wisconsin-Stout,54751,Honors College,315 10th Avenue East Room 430 RSSLC,Robert S. Swanson Learning Program,Menomonie,WI,Dunn County,US,1611,{05AF21F2-2A69-E111-92F0-005056837252}
+East Carolina University,27858-4353,101 Mamie Jenkins Bldg.,,,Greenville,NC,,US,67720,{D9E4FE51-2B69-E111-92F0-005056837252}
+Thomas Nelson Community College,23670,Honors Program Coordinator,99 Thomas Nelson Dr.,,Hampton,VA,Hampton city,US,173325,{1BB89072-BB5E-E411-A09A-0050569C32C4}
+Piedmont Technical College,29648,620 North Emerald Road,,,Greenwood,SC,,US,95102,{689A5CEC-A313-E211-AF5A-0050569C003B}
+Charleston Southern University,29423-8087,9200 University Blvd.,P.O. Box 118087,,Charleston,SC,,US,171276,{DFAD0039-5845-E311-842D-0050569C003B}
+Marymount Manhattan College,10021,221 East 71st Street,,,New York,NY,New York County,US,2032,{07AF21F2-2A69-E111-92F0-005056837252}
+Dixie State University,84770,225 South 700 East,,,St. George,UT,Washington County,US,2137,{E5AF21F2-2A69-E111-92F0-005056837252}
+University of Delaware,19716,University of Delaware,Honors Program,186 S. College Ave,Newark,DE,,US,67582,{16E8F15D-2B69-E111-92F0-005056837252}
+Crown College,55375-9001,8700 College View Drive,,,St. Bonifacius,MN,,US,97629,{929801AE-701C-E211-B63E-0050569C003B}
+East Central University,74820-6999,Honors Program,1100 E. 14th St. - Box B-7,,Ada,OK,,US,89307,{8CD2D04D-C80D-E211-AF59-0050569C003B}
+University of Nebraska-Lincoln,68588-0659,118 NRC,540 N. 16th St.,,Lincoln,NE,Lancaster County,US,694,{E6AF21F2-2A69-E111-92F0-005056837252}
+Calvin College,49546,Honors Program,1845 Knollcrest Circle SE,,Grand Rapids,MI,,US,101838,{3CEBE3E2-DF2A-E211-B63E-0050569C003B}
+Georgia State University,30302,PO Box 3966,,,Atlanta,GA,Fulton County,US,68018,{4352CA1D-146D-E111-A07E-0050569C003C}
+University of La Verne,91750,1950 Third Street,,,La Verne,CA,Los Angeles County,US,129973,{30376E11-9E9B-E211-B10C-0050569C003B}
+Carroll University,53186,100 North East Avenue,,,Waukesha,WI,Waukesha County,US,1184,{08AF21F2-2A69-E111-92F0-005056837252}
+Paradise Valley Community College,85032,Honors,18401 N. 32nd St.,,Phoenix,AZ,Maricopa County,US,170140,{FA7F83E5-2026-E311-BD49-0050569C003B}
+Walsh University,44720-3396,2020 East Maple Street,216 Betzler SC,,North Canton,OH,Stark County,US,776,{09AF21F2-2A69-E111-92F0-005056837252}
+"California State Polytechnic University, Pomona",91768,Kellogg Honors College,3801 W. Temple Ave.,,Pomona,CA,Los Angeles County,US,61,{0AAF21F2-2A69-E111-92F0-005056837252}
+Marshall University,25755-2170,Honors College,One John Marshall Drive,,Huntington,WV,Cabell County,US,163928,{BE4F2122-5CFF-E211-BD48-0050569C003B}
+Indiana State University,47809,220 North 6th Street,Pickerl Hall 110,,Terre Haute,IN,Vigo County,US,273,{0CAF21F2-2A69-E111-92F0-005056837252}
+Saint Mary's College of California,94556,P.O. Box 3076,,,Moraga,CA,Contra Costa County,US,2223,{1AAD2EE6-2A69-E111-92F0-005056837252}
+Cape Cod Community College,02668,2240 Lyannough Road,,,West Barnstable,MA,Barnstable County,US,72,{E8AF21F2-2A69-E111-92F0-005056837252}
+Pearl River Community College,39470,101 Hwy 11 North,PO box 5387,,Poplarville,MS,Pearl River County,US,68069,{04726C75-0B6E-E111-B258-0050569C003B}
+Elizabeth City State University,27909,Campus Box 968,,,Elizabeth City,NC,Pasquotank County,US,179,{13AF21F2-2A69-E111-92F0-005056837252}
+Texas A & M International University,78041-1900,5201 University Blvd.,,,Laredo,TX,Webb County,US,1083,{F0AF21F2-2A69-E111-92F0-005056837252}
+Norwich University,05663,158 Harmon Drive School of Mathematics and Science,,,Northfield,VT,Washington County,US,67484,{EAAF21F2-2A69-E111-92F0-005056837252}
+North Carolina State University,27695-8610,221 Jensen Drive #201 Clark Hall,,,Raleigh,NC,,US,417,{0EAF21F2-2A69-E111-92F0-005056837252}
+College of Coastal Georgia,31520-3644,One College Drive,,,Brunswick,GA,Glynn County,US,171552,{C41A79AB-9E95-E311-B1CC-0050569C003B}
+West Virginia University,26506-6635,248 Stalnaker Hall,P.O. Box 6635,,Morgantown,WV,Monongalia County,US,173032,{29F8A521-093D-E411-904E-0050569C32C4}
+University of Missouri-St. Louis,63121,Pierre Laclede Honors College,1 University Blvd.,,St. Louis,MO,St. Louis County,US,685,{EBAF21F2-2A69-E111-92F0-005056837252}
+Lake Land College,61938,Honors Program,5001 Lake Land Blvd,,Mattoon,IL,Coles County,US,309,{19AF21F2-2A69-E111-92F0-005056837252}
+St. Johns River State College,,5001 Saint Johns Ave,,,Palatka,FL,Putnam County,US,123912,{C79F7558-C081-E211-B10B-0050569C003B}
+Aims Community College,80634,5401 W. 20th St.,,,Greeley,CO,Weld County,US,173182,{52A1D615-3843-E411-904E-0050569C32C4}
+Gannon University,16541-0001,109 University Square Palumbo 1202B,,,Erie,PA,Erie County,US,171190,{2839EAEF-D635-E311-842D-0050569C003B}
+Coker College,29550,300 E College Ave,,,Hartsville,SC,,US,101324,{8CEB5BD4-1329-E211-B63E-0050569C003B}
+Ivy Tech Community College - Central Indiana,46208-5725,50 West Fall Creek Parkway North Dr.,Honors Hall T-135,,Indianapolis,IN,Marion County,US,68022,{4752CA1D-146D-E111-A07E-0050569C003C}
+Mohawk Valley Community College,13501,1101 Sherman Dr,,,Utica,NY,,US,97262,{AEDFEDBF-1D1A-E211-B63E-0050569C003B}
+J Sargeant Reynolds Community College,23228-2327,1651 E Parham Road,,,Richmond,VA,,US,172923,{61627936-CD39-E411-904E-0050569C32C4}
+Northern Illinois University,60115,1425 W. Lincoln Hwy,CL 110,,Dekalb,IL,DeKalb County,US,159678,{9E837B81-4FEE-E211-BD48-0050569C003B}
+Texas A & M University-Corpus Christi,78412-5751,Honors Program,6300 Ocean Drive Unit 5751,,Corpus Christi,TX,Nueces County,US,67670,{1AAF21F2-2A69-E111-92F0-005056837252}
+Park University,64152,Honors Program,8700 NW River Park Dr.,,Parkville,MO,Platte County,US,461,{EDAF21F2-2A69-E111-92F0-005056837252}
+Ferris State University,49307,"202 South Street, PIC 142",,,Big Rapids,MI,Mecosta County,US,109662,{33F44965-9959-E211-B878-0050569C003B}
+Central Methodist University,65248,411 Central Methodist Square,,,Fayette,MO,,US,78,{1BAF21F2-2A69-E111-92F0-005056837252}
+Southwest Tennessee Community College,38103,737 Union Ave.,,,Memphis,TN,Shelby County,US,67446,{23AF21F2-2A69-E111-92F0-005056837252}
+Eastern Oklahoma State College,74578,Honors Program,1301 W. Main St.,,Wilburton,OK,Latimer County,US,173,{1FAF21F2-2A69-E111-92F0-005056837252}
+The University of South Dakota,57069-2390,414 East Clark Street Old Main 120,,,Vermillion,SD,,US,67823,{22AF21F2-2A69-E111-92F0-005056837252}
+Westfield State University,01086-1630,577 Western Ave.,,,Westfield,MA,Hampden County,US,2204,{27AF21F2-2A69-E111-92F0-005056837252}
+University of North Alabama,35632-0001,One Harrison Plaza Honors Program Box 5176,,,Florence,AL,,US,707,{EEAF21F2-2A69-E111-92F0-005056837252}
+Jackson State University,39217,W.E.B. DuBois Honors College,1400 John R. Lynch St.,,Jackson,MS,Hinds County,US,125587,{E02BF52B-188B-E211-B10B-0050569C003B}
+North Carolina Central University,27707,1801 Fayetteville Street 2004 /Michaux School of Ed. Building,,,Durham,NC,Durham County,US,68030,{5052CA1D-146D-E111-A07E-0050569C003C}
+University of Maine at Farmington,04938,Honors Program,125 Lincoln St.,,Farmington,ME,Franklin County,US,172349,{1AB88948-D211-E411-B837-0050569C32C4}
+University of North Carolina Wilmington,28403-5958,Honors Scholars Program,601 S. College Rd,,Wilmington,NC,New Hanover County,US,1061,{29AF21F2-2A69-E111-92F0-005056837252}
+Nassau Community College,11530-6793,1 Education Dr.,,,Garden City,NY,Nassau County,US,171346,{F0546483-877F-E311-842D-0050569C003B}
+Butler Community College,67042,Academic Support Services,901 S. Haverhill Rd.,,El Dorado,KS,Butler County,US,59,{C6AD2EE6-2A69-E111-92F0-005056837252}
+University of Texas-Pan American,78541,1201 West University Drive SBSc-104,,,Edinburg,TX,,US,740,{1EAD2EE6-2A69-E111-92F0-005056837252}
+Florida Atlantic University-Jupiter,33458,"Dean, Wilkes Honors College",5353 Parkside Dr.,,Jupiter,FL,Palm Beach County,US,199,{25AF21F2-2A69-E111-92F0-005056837252}
+Indiana University-Purdue University Indianapolis,46234-5911,Kelley School of Business,801 W. Michigan St.,,Indianapolis,IN,,US,172997,{4D060C78-DA3C-E411-904E-0050569C32C4}
+Christian Brothers University,38104,Honors Program,650 E. Parkway South,,Memphis,TN,Shelby County,US,92,{26AF21F2-2A69-E111-92F0-005056837252}
+Valencia College,32811,1800 S. Kirkman Road MC 4-16,,,Orlando,FL,Orange County,US,763,{28AF21F2-2A69-E111-92F0-005056837252}
+George Mason University,22030,4400 University Drive MSN 1F4 Enterprise Hall Room 318,,,Fairfax,VA,Fairfax County,US,67715,{33AF21F2-2A69-E111-92F0-005056837252}
+Henderson Community College,42420-4699,2660 S Green St,,,Henderson,KY,Henderson County,US,171317,{46893A5A-225D-E311-842D-0050569C003B}
+St. Andrews University,28352,1700 Dogwood Mile,,,Laurinburg,NC,,US,551,{34AF21F2-2A69-E111-92F0-005056837252}
+Salisbury University,21801,Bellavance Honors Program,1101 Camden Avenue,,Salisbury,MD,Wicomico County,US,87332,{DA5E1A0F-B108-E211-AF59-0050569C003B}
+Cleveland State Community College,37320-3570,Honors Program,P.O. Box 3570,,Cleveland,TN,,US,109,{175D36E0-2A69-E111-92F0-005056837252}
+Erie Community College/City,14203,121 Ellicott St.,,,Buffalo,NY,,US,169541,{88DE8A5C-0E1B-E311-BD48-0050569C003B}
+Rose State College,73110,Honors Program Coordinator,6420 S.E. 15th Street,,Midwest City,OK,,US,75428,{D221E52B-87D6-E111-89B0-0050569C003B}
+University of Puerto Rico-Recinto De Rio Piedras,00931-1847,PO Box 21847,,,San Juan,PR,,Puerto Rico,72551,{CA9CA2DF-70C7-E111-89B0-0050569C003B}
+Central Michigan University,48859,CMU Honors Program,104 Powers Hall,,Mt. Pleasant,MI,Isabella County,US,1509,{2AAF21F2-2A69-E111-92F0-005056837252}
+University of Idaho,83844-2533,Idaho Commons 315,875 Perimeter Drive MS 2533,,Moscow,ID,Latah County,US,169114,{B433971D-9714-E311-BD48-0050569C003B}
+Bay de Noc Community College,49829,2001 N. Lincoln Road,,,Escanaba,MI,Delta County,US,67003,{2BAF21F2-2A69-E111-92F0-005056837252}
+Ramapo College of New Jersey,07430,Honors - American and Intnt'l Studies,505 Ramapo Valley Rd.,,Mahwah,NJ,,US,67808,{0299F957-2B69-E111-92F0-005056837252}
+Averett University,24541,Honors Program,420 W. Main St.,,Danville,VA,Danville city,US,171591,{54D1B0D3-7A99-E311-97FD-0050569C003B}
+University of South Carolina-Upstate,29303,Honors Program,800 University Way,,Spatanburg,SC,Manatee County,US,68645,{647F00F0-2D8E-E111-B258-0050569C003B}
+University of Massachusetts-Lowell,01854,1 University Ave. Southwick 320 - NORTH,,,Lowell,MA,Middlesex County,US,67865,{195D36E0-2A69-E111-92F0-005056837252}
+Shepherd University,25443,Martin Hall,P.O. Box 5000,,Shepherdstown,WV,Jefferson County,US,172723,{FDED9FC5-7E33-E411-904E-0050569C32C4}
+St. Mary's University,78228,One Camino Santa Maria,,Honors Program Box #47,San Antonio,TX,,US,171732,{52A7F4C6-C59F-E311-97FD-0050569C003B}
+Northeastern State University,74465,711 N. Grand Avenue JV Library 119,,,Tahlequah,OK,Cherokee County,US,1076,{2CAF21F2-2A69-E111-92F0-005056837252}
+Wright State University,45435,"3640 Colonel Glenn Hwy., 243 Millett Hall",,,Dayton,OH,Greene County,US,807,{2FAF21F2-2A69-E111-92F0-005056837252}
+Olivet Nazarene University,60914,One University Ave. ONU #6042,,,Bourbonnais,IL,Kankakee County,US,69935,{426A8800-C1A3-E111-B259-0050569C003B}
+Berry College,30149-0299,Honors Program,Box 299,,Mount Berry,GA,,US,2571,{7EE6FE51-2B69-E111-92F0-005056837252}
+Tarrant County Community College District,76102,TCC May Owen Center,Office: DMOC 1601T,1500 Houston Street,Fort Worth,TX,,US,171313,{3A291C29-A356-E311-842D-0050569C003B}
+Lone Star College System,77073,2700 W. W. Thorne Drive,,,Houston,TX,,US,67253,{F6AF21F2-2A69-E111-92F0-005056837252}
+Harding University,72149-0913,Honors College,Box 10913,,Searcy,AR,White County,US,229,{30AF21F2-2A69-E111-92F0-005056837252}
+Louisiana State University at Eunice,70535,Honors Program,P.O. Box 1129,,Eunice,LA,Acadia Parish,US,333,{F1AF21F2-2A69-E111-92F0-005056837252}
+Northeastern University,02115-5000,150 West Village F,360 Huntington Ave.,,Boston,MA,Suffolk County,US,172174,{EBCDC104-2BF3-E311-8578-0050569C32C4}
+New Mexico State University,88003,"Box 30001, MSC 3HON","2745 S. Espina Street, Rm. 104",,Las Cruces,NM,DoÃ±a Ana County,US,172762,{E3587A57-4F34-E411-904E-0050569C32C4}
+Grand Valley State University,49424,4046 Calder Drive,120 Niemeyer Hall,,Allendale,MI,Ottawa County,US,860,{F2AF21F2-2A69-E111-92F0-005056837252}
+Malone University,44709,Honors Program,2600 Cleveland Avenue NW,,Canton,OH,Hillsborough County,US,341,{32AF21F2-2A69-E111-92F0-005056837252}
+Millikin University,62522,1184 W. Main St. LIB 7,,,Decatur,IL,Macon County,US,374,{39AF21F2-2A69-E111-92F0-005056837252}
+St. Louis Community College at Meramec,63122,11333 Big Bend Blvd.,CN-215,,Kirkwood,MO,St. Louis County,US,172914,{B56EF05E-2939-E411-904E-0050569C32C4}
+California State University Fresno,93740-8031,Smittcamp Family Honors College,"2345 E. San Ramon, M/S MH 128",,Fresno,CA,Fresno County,US,63,{3EAF21F2-2A69-E111-92F0-005056837252}
+Miami Dade College,33132,The Honors College,300 NE Second Ave Ste. 1264,,Miami,FL,Miami-Dade County,US,68071,{D63BD697-156E-E111-B258-0050569C003B}
+Miles College,35064,5500 Myron Massey Blvd.,,,Fairfield,AL,Jefferson County,US,1269,{F3AF21F2-2A69-E111-92F0-005056837252}
+Loyola University Maryland,21210-2699,Honors Program,4501 N. Charles St.,,Baltimore,MD,Baltimore city,US,2229,{35AF21F2-2A69-E111-92F0-005056837252}
+George Fox University,97132,414 N Meridian St,,,Newberg,OR,,US,169892,{9ABD3782-261F-E311-BD48-0050569C003B}
+Oregon Institute of Technology,97601-8801,3201 Campus Drive,,,Klamath Falls,OR,,US,168631,{24B1E76D-DA10-E311-BD48-0050569C003B}
+Louisiana State University,70803,Honors College,205 French House,,Baton Rouge,LA,,US,866,{3FAF21F2-2A69-E111-92F0-005056837252}
+Long Island University-Brooklyn,11201,"1 University Plaza, Pratt 310",,,Brooklyn,NY,,US,913,{3AAF21F2-2A69-E111-92F0-005056837252}
+Greensboro College,27401,815 West Market Street,Proctor Hall East,,Greensboro,NC,Guilford County,US,172499,{33BF9C7A-8E24-E411-904E-0050569C32C4}
+University of North Carolina at Chapel Hill,27514,218 E. Franklin Street Campus Box 3510,,,Chapel Hill,NC,,US,688,{40AF21F2-2A69-E111-92F0-005056837252}
+Tarleton State University,76402,Honors Program Box T-0545,,,Stephenville,TX,,US,1332,{4EAF21F2-2A69-E111-92F0-005056837252}
+Suffolk Community College,11784-2851,H221,533 College Road,,Selden,NY,Suffolk County,US,577,{42AF21F2-2A69-E111-92F0-005056837252}
+Eastern Kentucky University,40475-0947,168 Case Annex,521 Lancaster Avenue,,Richmond,KY,Madison County,US,67610,{A297F957-2B69-E111-92F0-005056837252}
+Southeastern Oklahoma State University,74701-0609,PMB 2766,1405 N. Fourth Ave.,,Durant,OK,Bryan County,US,538,{45AF21F2-2A69-E111-92F0-005056837252}
+Mission College,95054-1897,3000 Mission College Blvd,,,Santa Clara,CA,,US,171287,{BA5C8494-7E49-E311-842D-0050569C003B}
+Heidelberg University,44883,310 E. Market St.,,,Tiffin,OH,Seneca County,US,233,{FAAF21F2-2A69-E111-92F0-005056837252}
+Motlow State Community College,37352-8500,P.O. Box 8500,6015 Ledfird Mills Road,,Lynchburg,TN,Moore County,US,397,{48AF21F2-2A69-E111-92F0-005056837252}
+Quinnipiac University,06518,275 Mt. Carmel Avenue (EC-TRN),,,Hamden,CT,New Haven County,US,481,{49AF21F2-2A69-E111-92F0-005056837252}
+Columbus State Community College,43215-1609,550 E. Spring Street,P.O. Box 1609,,Columbus,OH,Franklin County,US,893,{4AAF21F2-2A69-E111-92F0-005056837252}
+The Ohio State University Newark,43055,1179 University Drive,,,Newark,OH,US,US,70209,{289E9580-E5B4-E111-B259-0050569C003B}
+Hardin Simmons University,79698,HSU 16115,2200 Hickory,,Abilene,TX,Taylor County,US,228,{FEAF21F2-2A69-E111-92F0-005056837252}
+"Minnesota State University, Mankato",56001,325 Wigley Adm. Center,,,Mankato,MN,Blue Earth County,US,1383,{03B021F2-2A69-E111-92F0-005056837252}
+University of North Texas,76203,Honors College,1155 Union Cir #310529,,Denton,TX,Denton County,US,710,{4CAF21F2-2A69-E111-92F0-005056837252}
+Maricopa Community College District,85281-6942,Academic Affairs,2411 W. 14th St.,,Tempe,AZ,Washington County,US,167955,{AE0E7AA6-5F0B-E311-BD48-0050569C003B}
+Cochise College,85635,901 N. Colombo,,,Sierra Vista,AZ,Cochise County,US,111,{4DAF21F2-2A69-E111-92F0-005056837252}
+Raritan Valley Community College,08876,118 Lamington Road P.O. 3300,,,Somerville,NJ,Somerset County,US,67336,{1F5D36E0-2A69-E111-92F0-005056837252}
+Montana State University-Billings,59101,1500 University Dr.,,,Billings,MT,Yellowstone County,US,2268,{04B021F2-2A69-E111-92F0-005056837252}
+Mineral Area College,63601,5270 Flat River Road P.O. Box 1000,,,Park Hills,MO,St. Francois County,US,1500,{59AF21F2-2A69-E111-92F0-005056837252}
+Morehouse College,30314,830 Westview Dr. S.W.,,,Atlanta,GA,Fulton County,US,166678,{1256F5AC-AC09-E311-BD48-0050569C003B}
+Western State Colorado University,81231,Honors Program,101 Crawford Hall,,Gunnison,CO,Gunnison County,US,87232,{14F1DB02-5308-E211-AF59-0050569C003B}
+Ohio Northern University,45810,525 S. Main Burgett 123,,,Ada,OH,Hardin County,US,441,{01B021F2-2A69-E111-92F0-005056837252}
+University of Northern Colorado,80639-0072,501 20th Street Campus Box 13,,,Greeley,CO,Weld County,US,1075,{25AD2EE6-2A69-E111-92F0-005056837252}
+University of Mount Olive,28365-0919,634 Henderson St,,,Mount Olive,NC,Wayne County,US,171335,{ACD5FBD9-2868-E311-842D-0050569C003B}
+Central Washington University,98926-7521,400 E. University Way,,,Ellensburg,WA,Kittitas County,US,81,{C5FD26EC-2A69-E111-92F0-005056837252}
+North Carolina A & T State University,27411,1601 E Market St.,New Academic Clsrm Bldg - Suite 110,,Greensboro,NC,Guilford County,US,67454,{08FD26EC-2A69-E111-92F0-005056837252}
+Seton Hill University,15601,Honors Program,One Seton Hill Drive,Box 486F,Greensburg,PA,Westmoreland County,US,2167,{1C5D36E0-2A69-E111-92F0-005056837252}
+Bethel University,38201,Honors Program Director,325 Cherry Ave.,,McKenzie,TN,,US,136558,{BADAC254-B2AD-E211-BD45-0050569C003B}
+Siena College,12211-1462,Honors Program,515 Loudon Rd.,,Loudonville,NY,Albany County,US,527,{53AF21F2-2A69-E111-92F0-005056837252}
+Hillsborough Community College,33614,4001 W. Tampa Bay Blvd.,,,Tampa,FL,Hillsborough County,US,237,{735D36E0-2A69-E111-92F0-005056837252}
+Richland College,75243-2199,12800 Abrams Rd.,,,Dallas,TX,,US,170309,{EC63AC5C-DD2A-E311-BD49-0050569C003B}
+Columbia College - Missouri,65216,1001 Rogers St.,,,Columbia,MO,Boone County,US,130,{55AF21F2-2A69-E111-92F0-005056837252}
+University of Dayton,45469-0311,University Honors Program,300 College Park,,Dayton,OH,Montgomery County,US,647,{56AF21F2-2A69-E111-92F0-005056837252}
+Texas A & M University,77843-4233,Office of Honors and Undergraduate Research,321 Henderson Hall MS4233,,College Station,TX,Brazos County,US,66927,{57AF21F2-2A69-E111-92F0-005056837252}
+West Virginia University at Parkersburg,26104-8647,300 Campus Drive,,,Parkersburg,WV,Wood County,US,151135,{94CBD6D8-B6D2-E211-BD48-0050569C003B}
+Kennesaw State University,30144-5591,"1000 Chastain Rd., #1802",,,Kennesaw,GA,Cobb County,US,297,{60AF21F2-2A69-E111-92F0-005056837252}
+Florida Agricultural & Mechanical University,32307,Honors Program,207 Honor House,,Tallahassee,FL,Leon County,US,197,{1D5D36E0-2A69-E111-92F0-005056837252}
+West Chester University of Pennsylvania,19383,Honors College,703 S. High Street,,West Chester,PA,Chester County,US,783,{5BAF21F2-2A69-E111-92F0-005056837252}
+Hudson County Community College,07306,25 Journal Square,,,Jersey City,NJ,,US,83107,{3D5F7BC2-4BFC-E111-AF59-0050569C003B}
+Johnson County Community College,66210-1299,CCC Honors Program,12345 College Blvd.,,Overland Park,KS,Johnson County,US,292,{0BFD26EC-2A69-E111-92F0-005056837252}
+Lynchburg College,24501,1501 Lakeside Dr.,,,Lynchburg,VA,Lynchburg city,US,339,{5CAF21F2-2A69-E111-92F0-005056837252}
+South Mountain Community College,85042,7050 S. 24th St,,,Phoenix,AZ,Maricopa County,US,112736,{CA7FAFB6-6F65-E211-B10B-0050569C003B}
+Missouri Western State University,64507,Spratt Hall 202,4525 Downs Dr.,,St. Joseph,MO,Buchanan County,US,72163,{88D8CD0C-4DC1-E111-89B0-0050569C003B}
+Notre Dame of Maryland University,21210-2476,Elizabeth Morrissy Program,4701 N. Charles St.,,Baltimore,MD,Baltimore city,US,73155,{10D37087-61CB-E111-89B0-0050569C003B}
+State University of New York-The College at Old Westbury,11568-0210,Honors College AVA 108,PO Box 210,,Old Westbury,NY,Nassau County,US,69931,{4C8C75B5-57A3-E111-B259-0050569C003B}
+University of Alabama-Huntsville,35899,336 Morton Hall,Honors Program,,Huntsville,AL,Madison County,US,626,{5EAF21F2-2A69-E111-92F0-005056837252}
+Montgomery County Community College,19422,340 DeKalb Pike,,,Blue Bell,PA,Montgomery County,US,68027,{4C52CA1D-146D-E111-A07E-0050569C003C}
+Chattanooga State Community College,37406-1097,4501 Amnicola Hwy.,,,Chattanooga,TN,Hamilton County,US,173312,{A1722066-C15A-E411-A09A-0050569C32C4}
+University of Rhode Island,02881-0806,Honors Program,300 Lippitt Hall,,Kingston,RI,Washington County,US,161993,{FAC05EFB-5BF5-E211-BD48-0050569C003B}
+Sacred Heart University,06825-1000,5151 Park Ave.,,,Fairfield,CT,Fairfield County,US,67800,{6BAF21F2-2A69-E111-92F0-005056837252}
+Hutchinson Community College & Area Vocational School,67501,1300 North Plum,Hutchinson,,Hutchinson,KS,Reno County,US,266,{65AF21F2-2A69-E111-92F0-005056837252}
+Heartland Community College,61761,Honors Program Co-Director,1500 W. Raab Road,,Normal,IL,McLean County,US,171326,{1A0A425C-7862-E311-842D-0050569C003B}
+Long Island University/LIU Post,11548-1300,201 Humanities Hall,720 Northern Blvd.,,Brookville,NY,Nassau County,US,329,{61AF21F2-2A69-E111-92F0-005056837252}
+St. Francis College,11201,Honors Program,180 Remsen Street,,Brooklyn,NY,,US,80370,{C44452FE-5DF1-E111-AF58-0050569C003B}
+William Paterson University,07470,Raubinger Hall 126-129,300 Pompton Rd.,,Wayne,NJ,Passaic County,US,800,{62AF21F2-2A69-E111-92F0-005056837252}
+College of Southern Idaho,83303-1238,315 Falls Avenue P.O. Box 1238,,,Twin Falls,ID,Twin Falls County,US,2277,{0DFD26EC-2A69-E111-92F0-005056837252}
+Lamar University,77710,University Honors Program,P.O. Box 10968,,Beaumont,TX,Jefferson County,US,311,{64AF21F2-2A69-E111-92F0-005056837252}
+Oregon State University,97331-2221,University Honors College,229 Strand Hall,,Corvallis,OR,Benton County,US,116611,{BEBBC2FC-2E72-E211-B10B-0050569C003B}
+Monmouth University,07764-1898,400 Cedar Avenue,,,West Long Branch,NJ,Monmouth County,US,67819,{70AF21F2-2A69-E111-92F0-005056837252}
+University of South Alabama,36688-0002,Honors Program,"307 University Blvd., N SBT 1230",,Mobile,AL,Beaufort County,US,2133,{66AF21F2-2A69-E111-92F0-005056837252}
+Nicholls State University,70310,P.O. Box 2021,,,Thibodaux,LA,Lafourche Parish,US,1543,{0EFD26EC-2A69-E111-92F0-005056837252}
+Millersville University of Pennsylvania,17551,227 Cove Drive,P.O. Box 1002,,Millersville,PA,Lancaster County,US,373,{67AF21F2-2A69-E111-92F0-005056837252}
+Southern Methodist University,75275-0283,"Director, University Honors Program",G 02 Clements Hall,P.O. Box 750283,Dallas,TX,Dallas County,US,1002,{225D36E0-2A69-E111-92F0-005056837252}
+Dickinson State University,58601,291 Campus Drive Theodore Roosevelt Honors Leadership,,,Dickinson,ND,Stark County,US,172614,{998AE66F-082E-E411-904E-0050569C32C4}
+Bemidji State University,56601,1500 Birchmont Drive #23,,,Bemidji,MN,Beltrami County,US,1602,{A1AD2EE6-2A69-E111-92F0-005056837252}
+Highland Community College,61032,2998 West Pearl City Road,,,Freeport,IL,Stephenson County,US,78855,{DAA1AE33-54EC-E111-89B0-0050569C003B}
+University of Rio Grande,45674,Honors Program,PO Box 500,,Rio Grande,OH,,US,111895,{A475058D-EB60-E211-B878-0050569C003B}
+Chestnut Hill College,19118,9601 Germantown Ave.,,,Philadelphia,PA,Philadelphia County,US,89,{A2AD2EE6-2A69-E111-92F0-005056837252}
+University of Alaska Fairbanks,99775-6282,520 Copper Lane,POB 756282,,Fairbanks,AK,,US,67836,{BBFCEE63-2B69-E111-92F0-005056837252}
+McLennan Community College,76708,1400 College Drive,,,Waco,TX,McLennan County,US,67402,{2AAD2EE6-2A69-E111-92F0-005056837252}
+Mercyhurst University,16546,"Director, Honors Program",501 E. 38th Street,,Erie,PA,Erie County,US,362,{ECAF21F2-2A69-E111-92F0-005056837252}
+Hampton University,23668,Honors College,P.O. Box 6174,,Hampton,VA,Hampton city,US,75031,{B643E7F9-98D5-E111-89B0-0050569C003B}
+Bunker Hill Community College,02129-2925,250 New Rutherford Ave.,,,Boston,MA,Suffolk County,US,2260,{A4AD2EE6-2A69-E111-92F0-005056837252}
+University of Miami,33146,"5600 Merrick Drive, Bldg. 21-Y",,,Coral Gables,FL,Miami-Dade County,US,1531,{A5AD2EE6-2A69-E111-92F0-005056837252}
+Stevenson University,21153,1525 Greenspring Valley Road,,,Stevenson,MD,Baltimore County,US,766,{D8FC26EC-2A69-E111-92F0-005056837252}
+The University of Tulsa,74104,800 S. Tucker Drive,"McFarlin Library, Room 5130",,Tulsa,OK,,US,1301,{0FFD26EC-2A69-E111-92F0-005056837252}
+Bradley University,61625,295 Bradley Hall,,,Peoria,IL,,US,149661,{B43C47F6-64C9-E211-BD48-0050569C003B}
+The Washington Center for Internships & Academic Seminars,20036,1333 16th St. NW,,,Washington,DC,,US,137961,{4044ADF5-F7B0-E211-BD45-0050569C003B}
+McHenry County College,60012-2761,8900 U.S. Hwy 14,,,Crystal Lake,IL,McHenry County,US,353,{B4AD2EE6-2A69-E111-92F0-005056837252}
+The University of Texas at San Antonio,78249-1130,One UTSA Circle,JPL 4.02.10,,San Antonio,TX,,US,831,{ABAD2EE6-2A69-E111-92F0-005056837252}
+Wesleyan College,31201,4760 Forsyth Rd.,,,Macon,GA,Bibb County,US,173333,{82FAD365-825F-E411-A09A-0050569C32C4}
+Urbana University,43078,579 College Way,,,Urbana,OH,Champaign County,US,171348,{CCC6F576-967F-E311-842D-0050569C003B}
+Georgia College & State University,31061,CBX 029,,,Milledgeville,GA,Baldwin County,US,879,{2B5D36E0-2A69-E111-92F0-005056837252}
+Weber State University,84408-2904,Honors,2904 University Cir.,,Ogden,UT,Weber County,US,781,{10FD26EC-2A69-E111-92F0-005056837252}
+University of Groningen,,P.O. Box 72,Groningen 9700 AB,,Groningen,,,Netherlands,2215,{AEAD2EE6-2A69-E111-92F0-005056837252}
+Walla Walla University,99325-1198,204 S. College Avenue,,,College Place,WA,Walla Walla County,US,114644,{C6479E2E-DA6B-E211-B10B-0050569C003B}
+Wichita State University,67260-0102,Honors College,1845 Fairmount Street,,Wichita,KS,Sedgwick County,US,135529,{3C85672A-EEAC-E211-BD45-0050569C003B}
+Georgia Southern University,30460,P.O. Box 8130,,,Statesboro,GA,Bulloch County,US,216,{AFAD2EE6-2A69-E111-92F0-005056837252}
+Eastern Illinois University,61920-3099,The Honors College,Pemberton South,600 Lincoln Avenue,Charleston,IL,Coles County,US,508,{604BE769-2B69-E111-92F0-005056837252}
+Angelo State University,76909-0913,ASU Station #10913,,,San Angelo,TX,Tom Green County,US,13,{B0AD2EE6-2A69-E111-92F0-005056837252}
+College of St. Benedict and St. John's University,56321,PO Box 2000,2850 Abbey Plaza,Philosophy Department,Collegeville,MN,,US,172810,{3CBB8A7D-0336-E411-904E-0050569C32C4}
+Berkshire Community College,01201,1350 West St.,,,Pittsfield,MA,Berkshire County,US,40,{B2AD2EE6-2A69-E111-92F0-005056837252}
+Saint Augustine's University,27610-2298,1315 Oakwood Avenue,103 Hermitage 103,,Raleigh,NC,Wake County,US,1326,{85FD26EC-2A69-E111-92F0-005056837252}
+Grayson College,75020,6101 Grayson Dr.,,,Denison,TX,Grayson County,US,172098,{46801471-4FDF-E311-8578-0050569C32C4}
+University of Nebraska-Kearney,68849,2510 11th Ave,,,Kearney,NE,Buffalo County,US,2272,{645D36E0-2A69-E111-92F0-005056837252}
+Virginia Commonwealth University,23284-3010,701 W. Grace St. Ste. 1400,,,Richmond,VA,Richmond city,US,287,{BBAD2EE6-2A69-E111-92F0-005056837252}
+East Texas Baptist University,75670,One Tiger Drive,,,Marshall,TX,Harrison County,US,68013,{3E52CA1D-146D-E111-A07E-0050569C003C}
+Portland State University,97207,Honors Program,P.O. Box 0751,,Portland,OR,Multnomah County,US,66749,{BAAD2EE6-2A69-E111-92F0-005056837252}
+Point Park University Honors,15222-1984,Honors Program,201 Wood St.,,Pittsburgh,PA,Allegheny County,US,473,{B6AD2EE6-2A69-E111-92F0-005056837252}
+Georgia Highlands College,30135,5901 Stewart Parkway,,,Douglasville,GA,,US,116647,{580C4726-8B73-E211-B10B-0050569C003B}
+Converse College,29302,580 E. Main St.,,,Spartanburg,SC,Spartanburg County,US,138,{17FD26EC-2A69-E111-92F0-005056837252}
+Trinity Valley Community College,75751,Honors Program,100 Cardinal Drive,,Athens,TX,Henderson County,US,171362,{4AB75000-3A84-E311-842D-0050569C003B}
+College of DuPage,60137,425 Fawell Boulevard,,,Glen Ellyn,IL,,US,83353,{C4C20B5E-B5FD-E111-AF59-0050569C003B}
+Community College of Allegheny County,15122,South Campus Honors Program,1750 Clairton Rd.,,West Mifflin,PA,Allegheny County,US,136,{B9AD2EE6-2A69-E111-92F0-005056837252}
+Notre Dame de Namur University,94002,1500 Ralston Ave.,,,Belmont,CA,,US,68602,{581379B4-957A-E111-B258-0050569C003B}
+Irvine Valley College,92618,5500 Irvine Center Dr.,,,Irvine,CA,Orange County,US,284,{C0AD2EE6-2A69-E111-92F0-005056837252}
+Georgian Court University,08701,Director of the Honors Program,900 Lakewood Av,,Lakewood,NJ,Ocean County,US,130747,{7A0FCA70-BB9B-E211-B10C-0050569C003B}
+State University of New York-Canton,13617-1037,34 Cornell Drive - FOB 616,,,Canton,NY,St. Lawrence County,US,66555,{C1AD2EE6-2A69-E111-92F0-005056837252}
+Dordt College,51250,"Provost, Academic Affairs, Kuyper Scholars Program",498 Fourth Ave. NE,,Sioux Center,IA,Sioux County,US,77582,{F092D145-09E7-E111-89B0-0050569C003B}
+"California Polytechnic State University, San Luis Obispo",93407,"Kennedy Library, Room 209B",,,San Luis Obispo,CA,San Luis Obispo County,US,168600,{58F39721-A610-E311-BD48-0050569C003B}
+Fort Valley State University,31030-4313,1005 State University Dr,,,Fort Valley,GA,Peach County,US,162657,{28B7C798-4BF9-E211-BD48-0050569C003B}
+St. Edward's University,78704-6489,Honors Program,"3001 S. Congress Ave, C/M 779",,Austin,TX,,US,68039,{5A52CA1D-146D-E111-A07E-0050569C003C}
+Indiana University of Pennsylvania,15705,136 Whitmyre Hall,306 Pratt Dr.,,Indiana,PA,Indiana County,US,171555,{7CBCB4A4-0498-E311-97FD-0050569C003B}
+Longwood University,23909,Cormier Honors College,Longwood University,201 High Street,Farmville,VA,Prince Edward County,US,66542,{BDAD2EE6-2A69-E111-92F0-005056837252}
+Boise State University,83725-1125,1910 University Drive Driscoll Hall J10,,,Boise,ID,Ada County,US,1790,{BEAD2EE6-2A69-E111-92F0-005056837252}
+Chaffey College,91737,5885 Haven Avenue SSA-122,,,Rancho Cucamonga,CA,San Bernardino County,US,66750,{C2AD2EE6-2A69-E111-92F0-005056837252}
+Tallahassee Community College,32303,444 Appleyard Drive,,,Tallahassee,FL,Leon County,US,74230,{587C7EDE-0AD1-E111-89B0-0050569C003B}
+Crafton Hills College,92399,11711 Sand Canyon Road,,,Yucaipa,CA,San Bernardino County,US,67474,{255D36E0-2A69-E111-92F0-005056837252}
+College of Charleston,29424,Honors Center,10 Green Way,,Charleston,SC,Charleston County,US,1650,{C3AD2EE6-2A69-E111-92F0-005056837252}
+Rogers State University,74017,Will Rogers and College Hill,1701 W. Will Rogers Blvd.,,Claremore,OK,Rogers County,US,497,{CAAD2EE6-2A69-E111-92F0-005056837252}
+Northern State University,57401-7198,1200 S Jay St,,,Aberdeen,SD,Brown County,US,81239,{0AD239DE-A4F6-E111-AF58-0050569C003B}
+James Madison University,22807,251 Warren Service Drive,"MSC 1501, Hillcrest 101",,Harrisonburg,VA,Harrisonburg city,US,640,{32AD2EE6-2A69-E111-92F0-005056837252}
+Valparaiso University,46383,,1300 Chapel Dr.,,Valparaiso,IN,Porter County,US,765,{C8AD2EE6-2A69-E111-92F0-005056837252}
+The George Washington University,20052,"GWU-UHP 714 21st Street, NW",,,Washington,DC,,US,1485,{C9AD2EE6-2A69-E111-92F0-005056837252}
+University of Louisiana at Lafayette,70504,P.O. Box 43250,,,Lafayette,LA,Lafayette Parish,US,663,{15FD26EC-2A69-E111-92F0-005056837252}
+Prince George's Community College,20774-2199,Marlboro Hall-1089,301 Largo Rd.,,Largo,MD,Prince George's County,US,477,{1CFD26EC-2A69-E111-92F0-005056837252}
+Illinois State University,61790-6100,Honors Program,Campus Box 6100,,Normal,IL,,US,139181,{90913F5F-C1B2-E211-BD45-0050569C003B}
+Hofstra University,11549,243 Axinn Library,145 Hofstra University,,Hempstead,NY,Nassau County,US,240,{D1AD2EE6-2A69-E111-92F0-005056837252}
+St. Joseph's College-New York,11772-2325,155 West Roe Boulevard,,,Patchogue,NY,Stearns County,US,66504,{275D36E0-2A69-E111-92F0-005056837252}
+The University of Tennessee at Chattanooga,37403-2598,The Honors College,Dept. 1121,615 McCallie Ave.,Chattanooga,TN,,US,171,{1DFD26EC-2A69-E111-92F0-005056837252}
+Pittsburg State University,66762,Honors college,1701 S. Broadway,215c Hughes Hall,Pittsburg,KS,Crawford County,US,472,{CDAD2EE6-2A69-E111-92F0-005056837252}
+Texas State University-San Marcos,78666,601 University Dr.,Lampasas 407,,San Marcos,TX,Hays County,US,602,{CFAD2EE6-2A69-E111-92F0-005056837252}
+Hillsdale College,49242,33 E. College St.,,,Hillsdale,MI,,US,83094,{22594E53-49FC-E111-AF59-0050569C003B}
+University of San Francisco - School of Management,94117,2130 Fulton Street,School of Management,,San Francisco,CA,,US,159366,{365186B8-3AE8-E211-BD48-0050569C003B}
+Marymount University Virginia,22207,Caruthers 1012,,,Arlington,VA,Arlington County,US,104323,{4CAAC09B-483A-E211-B63E-0050569C003B}
+Oklahoma State University,74078-1073,The Honors College,104 Old Central,,Stillwater,OK,Payne County,US,785,{DBAD2EE6-2A69-E111-92F0-005056837252}
+Harper College,60067-7398,1200 W. Algonquin Road,,,Palatine,IL,Cook County,US,77369,{348D5139-49E6-E111-89B0-0050569C003B}
+Allegany College of Maryland,21502-2596,"12401 Willow Brook Rd., SE",,,Cumberland,MD,Allegany County,US,2273,{DDAD2EE6-2A69-E111-92F0-005056837252}
+St. Catherine University,55105,Antonian Scholars Honors Program,2004 Randolph Avenue Box #4139,,St. Paul,MN,,US,122,{1BFD26EC-2A69-E111-92F0-005056837252}
+Nyack College,10960,1 South Blvd.,,,Nyack,NY,Rockland County,US,438,{D3AD2EE6-2A69-E111-92F0-005056837252}
+Minot State University,58707,500 University Ave. W.,,,Minot,ND,Ward County,US,74476,{3CD69F48-D2D1-E111-89B0-0050569C003B}
+Southern Connecticut State University,06615,Engleman B225,501 Crescent St.,,New Haven,CT,,US,541,{D4AD2EE6-2A69-E111-92F0-005056837252}
+Mercer County Community College,08550,1200 Old Trenton Road,,,Trenton,NJ,Mercer County,US,359,{D5AD2EE6-2A69-E111-92F0-005056837252}
+Schoolcraft College,48152-2696,Schoolcraft Scholars Honors Program,18600 Haggerty Rd.,,Livonia,MI,Wayne County,US,171330,{7218F437-A762-E311-842D-0050569C003B}
+Emerson College,02116,Interdisciplinary Studies,120 Boylston St.,,Boston,MA,,US,184,{D6AD2EE6-2A69-E111-92F0-005056837252}
+Central State University,45384,1400 Brush Row Rd,PO Box 1004,,Wilberforce,OH,Greene County,US,170397,{2283383A-912B-E311-BD49-0050569C003B}
+Indiana University-Purdue University Fort Wayne,46805,Walb Union G25,2101 E. Coliseum Blvd.,,Fort Wayne,IN,,US,274,{20FD26EC-2A69-E111-92F0-005056837252}
+University of Minnesota-Duluth,55812-3027,1114 Kirby Drive,,,Duluth,MN,St. Louis County,US,82734,{BC19B56C-88FB-E111-AF58-0050569C003B}
+McNeese State University,70609,Honors College,Box 93430,,Lake Charles,LA,,US,356,{D9AD2EE6-2A69-E111-92F0-005056837252}
+Mount Ida College,02459,Honors Scholars Program,777 Dedham Street ATC 236,,Newton Centre,MA,,US,1271,{8C4DE769-2B69-E111-92F0-005056837252}
+Joliet Junior College,60431,C-2002,1215 Houbolt Rd,,Joliet,IL,Will County,US,293,{DAAD2EE6-2A69-E111-92F0-005056837252}
+Kingsborough Community College-CUNY,11235,2001 Oriental Blvd.,,,Brooklyn,NY,,US,305,{DCAD2EE6-2A69-E111-92F0-005056837252}
+Salem State University,01970,352 Lafayette St. The Sullivan Bldg Room 117,,,Salem,MA,Essex County,US,507,{E2AD2EE6-2A69-E111-92F0-005056837252}
+University of Hawaii at Manoa,96822,,2425 Campus Road Sinclair Library 128,,Honolulu,HI,Honolulu County,US,171198,{908250A5-5D37-E311-842D-0050569C003B}
+Commonwealth Honors College UMass Amherst,01003-9272,504 Goodell Bldg.,140 Hicks Way,,Amherst,MA,Hampshire County,US,88127,{97D3D4AE-D70B-E211-AF59-0050569C003B}
+Clarkson University,13699-5755,8 Clarkson Ave.,Box 5755,,Potsdam,NY,St. Lawrence County,US,67462,{1EFD26EC-2A69-E111-92F0-005056837252}
+Bristol Community College,02720-7395,Honors Program,777 Elsbree St.,,Fall River,MA,,US,55,{2A5D36E0-2A69-E111-92F0-005056837252}
+Capital University,43209-2394,Honors Program,1 College and Main,,Columbus,OH,Franklin County,US,172054,{E3F0C80D-E4D5-E311-8578-0050569C32C4}
+Texas A & M University-Commerce,75429-3011,Honors College,PO Box 3011,,Commerce,TX,Hunt County,US,597,{1FFD26EC-2A69-E111-92F0-005056837252}
+Seminole State College,32773-6199,100 Weldon Blvd.,,,Sanford,FL,,US,117704,{A6256954-F376-E211-B10B-0050569C003B}
+North Central Texas College,76208,North Central Texas College,1500 N. Corinth St,,Corinth,TX,,US,2818,{9598F957-2B69-E111-92F0-005056837252}
+St. John Fisher College,14618,3690 East Ave.,,,Rochester,NY,Monroe County,US,556,{E3AD2EE6-2A69-E111-92F0-005056837252}
+Bowie State University,20715,"Thurgood Marshall Library, Suite 279-D",14000 Jericho Park Road,,Bowie,MD,Prince George's County,US,47,{29FD26EC-2A69-E111-92F0-005056837252}
+Augsburg College,55454,2211 Riverside Ave.,,,Minneapolis,MN,Hennepin County,US,25,{21FD26EC-2A69-E111-92F0-005056837252}
+Texas A & M University Kingsville,78363,"700 University Blvd., MSC 217",,,Kingsville,TX,Kleberg County,US,67296,{22FD26EC-2A69-E111-92F0-005056837252}
+Northern Arizona University,86011,Honors Program,P. O. Box 5689,,Flagstaff,AZ,Coconino County,US,1109,{2BFD26EC-2A69-E111-92F0-005056837252}
+University of San Diego,92110,5998 Alcala Park SLP 409,,,San Diego,CA,Minnehaha County,US,172130,{3122C980-52E7-E311-8578-0050569C32C4}
+Southern Arkansas University Tech,71701-1906,6415 Spellman Road,,,Camden,AR,,US,123917,{8ACE110D-DD81-E211-B10B-0050569C003B}
+Vincennes University,47591,1002 N. 1st Street,,,Vincennes,IN,Knox County,US,126007,{4542C422-E68B-E211-B10B-0050569C003B}
+Leiden University,2311 GP,Sterrenwachtlaan 11,,,Leiden,,,Netherlands,97425,{B87DBF2A-4B1C-E211-B63E-0050569C003B}
+Birmingham-Southern College,35254,900 Arkadelphia Road Box 549030,,,Birmingham,AL,Jefferson County,US,42,{DFAD2EE6-2A69-E111-92F0-005056837252}
+Colorado Mesa University,81501-3122,1100 North Ave.,,,Grand Junction,CO,,US,365,{E0AD2EE6-2A69-E111-92F0-005056837252}
+Misericordia University,18612-1098,Honors Program,301 Lake St.,,Dallas,PA,Luzerne County,US,1043,{E1AD2EE6-2A69-E111-92F0-005056837252}
+Georgia Institute of Technology,30032-0740,"A. French Bldg, Room 103",239 Uncle Heinie Way,,Atlanta,GA,,US,214,{26FD26EC-2A69-E111-92F0-005056837252}
+Clayton State University,30260,Honors Program,2000 Clayton State Blvd.,University Center 211,Morrow,GA,,US,169759,{0890A7C7-311E-E311-BD48-0050569C003B}
+Abraham Baldwin Agricultural College,31793,2802 Moore Highway,,,Tifton,GA,Tift County,US,2,{E7AC2EE6-2A69-E111-92F0-005056837252}
+Canada College,94061,4200 Farm Hill Blvd.,,,Redwood City,CA,San Mateo County,US,1105,{205D36E0-2A69-E111-92F0-005056837252}
+University of St. Thomas-Texas,77096,3800 Montrose Blvd.,,,Houston,TX,Harris County,US,732,{E9AD2EE6-2A69-E111-92F0-005056837252}
+North Central College,60540,College Scholars Program,30 N. Brainard St.,,Naperville,IL,DuPage County,US,418,{E4AD2EE6-2A69-E111-92F0-005056837252}
+University of Oklahoma,73019,Honors College,1300 Asp,,Norman,OK,,US,713,{E5AD2EE6-2A69-E111-92F0-005056837252}
+Gulf Coast State College,32401-1041,5230 W. Highway 98,,,Panama City,FL,Bay County,US,68019,{4452CA1D-146D-E111-A07E-0050569C003C}
+Missouri State University,65897,901 S. National Avenue,University Hall 212,,Springfield,MO,Greene County,US,381,{E6AD2EE6-2A69-E111-92F0-005056837252}
+Western Illinois University,61455-1390,Centennial Honors College,I University Circle,,Macomb,IL,McDonough County,US,2096,{EFAD2EE6-2A69-E111-92F0-005056837252}
+Berkeley College,07102,536 Broad Street,,,Newark,NJ,,US,74966,{84FAE554-24D5-E111-89B0-0050569C003B}
+Chesapeake College,21679,P.O. Box 8,,,Wye Mills,MD,Queen Anne's County,US,88,{F0AD2EE6-2A69-E111-92F0-005056837252}
+Oakland University,48309,112 E. Vandenberg Hall,,,Rochester,MI,,US,67817,{28FD26EC-2A69-E111-92F0-005056837252}
+The University of Texas at Dallas,75080,800 W. Campbell Road GC10,P.O. Box 830688,,Richardson,TX,Dallas County,US,738,{EBAD2EE6-2A69-E111-92F0-005056837252}
+Lincoln University-Missouri,65102,Honors Program Director,206 Young Hall; 820 Chestnut Street,,Jefferson City,MO,Alameda County,US,321,{305D36E0-2A69-E111-92F0-005056837252}
+University of Louisville,40292,Honors Program Etscorn Honors Center,,,Louisville,KY,Jefferson County,US,172255,{0708BB76-8007-E411-8578-0050569C32C4}
+Madison College,53704-2599,1701 Wright Street,Room C2433,,Madison,WI,,US,173194,{F14C89CB-1C44-E411-904E-0050569C32C4}
+Creighton University,68178,Honors Program Director,2500 California Plaza,,Omaha,NE,Douglas County,US,139,{2AFD26EC-2A69-E111-92F0-005056837252}
+University of Arkansas-Little Rock,72204,Donaghey Scholars Program,Dickinson Hall 321,2801 S. University Ave.,Little Rock,AR,Pulaski County,US,172176,{86125093-89F5-E311-8578-0050569C32C4}
+California State University Los Angeles,90032-8362,5151 State University Drive,Honors College,KH D1045,Los Angeles,CA,Los Angeles County,US,65,{F5AD2EE6-2A69-E111-92F0-005056837252}
+Guilford College,27410,5800 West Friendly Avenue,,,Greensboro,NC,Guilford County,US,67517,{80AF21F2-2A69-E111-92F0-005056837252}
+Kent State University- Stark,44720,Honors Program,6000 Frank Rd.,,Canton,OH,Stark County,US,302,{F1AD2EE6-2A69-E111-92F0-005056837252}
+University of St. Francis,60435,500 Wilcox St.,,,Joliet,IL,Will County,US,731,{F2AD2EE6-2A69-E111-92F0-005056837252}
+Delgado Community College,70119,615 City Park Campus,,,New Orleans,LA,,US,67312,{E5FCEE63-2B69-E111-92F0-005056837252}
+Trinity International University,60015,2065 Half Day Rd.,,,Deerfield,IL,,US,150933,{74A0C35A-CBD1-E211-BD48-0050569C003B}
+Southeast Kentucky Community and Technical College,40823,700 College Road,,,Cumberland,KY,Harlan County,US,67710,{F3AD2EE6-2A69-E111-92F0-005056837252}
+California State University Long Beach,90840-1901,1250 Bellflower Blvd. Library - 214,,,Long Beach,CA,Los Angeles County,US,939,{F4AD2EE6-2A69-E111-92F0-005056837252}
+Sweet Briar College,24595,Honors Program,,,Sweet Briar,VA,Amherst County,US,580,{C3FC26EC-2A69-E111-92F0-005056837252}
+University of California-Riverside,92521,2316 Olmsted Hall Honors Program,,,Riverside,CA,Riverside County,US,2127,{2CFD26EC-2A69-E111-92F0-005056837252}
+Wayne State University,48202,Irvin D. Reid Honors College,2100 Undergraduate Library,5155 Gullen Mall,Detroit,MI,Wayne County,US,885,{2DFD26EC-2A69-E111-92F0-005056837252}
+University of West Georgia,30118,"Dean, Honors College",1601 Maple St.,,Carrollton,GA,Carroll County,US,67043,{C4FC26EC-2A69-E111-92F0-005056837252}
+Holyoke Community College,01040,303 Homestead Ave.,,,Holyoke,MA,Honolulu County,US,242,{C5FC26EC-2A69-E111-92F0-005056837252}
+Westminster College (PA),16172-0001,319 S. Market Street,Box 195,,New Wilmington,PA,Lawrence County,US,172333,{64F5DDF7-B10E-E411-B837-0050569C32C4}
+Lincoln Memorial University,37752,6965 Cumberland Gap Parkway,,,Harrogate,TN,Claiborne County,US,98513,{D83E6605-B21E-E211-B63E-0050569C003B}
+University of Mary Hardin-Baylor,76513,900 College St,UMHB Box 8438,,Belton,TX,Bell County,US,1145,{2FFD26EC-2A69-E111-92F0-005056837252}
+El Camino Community College,90506,c/o Natural Sciences Division 16007 Crenshaw Blvd.,,,Torrance,CA,Los Angeles County,US,177,{C8FC26EC-2A69-E111-92F0-005056837252}
+Lawson State Community College-Birmingham Campus,35221-1717,3060 Wilson Rd SW,,,Birmingham,AL,,US,171224,{D06B5625-613A-E311-842D-0050569C003B}
+Santa Fe College,32606,Director of the Honors Program,3000 NW 83rd St.,,Gainesville,FL,Alachua County,US,2516,{32FD26EC-2A69-E111-92F0-005056837252}
+North Dakota State University,58109-6050,University Honors Program,P.O. Box 6050,,Fargo,ND,Cass County,US,1101,{36FD26EC-2A69-E111-92F0-005056837252}
+Northeast State Community College,37617-0246,Honors,P.O. Box 246,,Blountville,TN,Sullivan County,US,422,{CAFC26EC-2A69-E111-92F0-005056837252}
+Howard Community College,21044,"10901 Little Patuxent Pkwy. TLSD, Rm. CL 228",,,Columbia,MD,Brown County,US,263,{CBFC26EC-2A69-E111-92F0-005056837252}
+University College Maastricht,6200 MD,Zwingelput 4,6211 KH,P.O. Box 616,Maastricht,(Non U.S.),,Netherlands,171846,{689E5645-66A4-E311-97FD-0050569C003B}
+Missouri Southern State University,64801,Honors Program,3950 E. Newman Rd.,,Joplin,MO,Jasper County,US,132368,{BAA505DB-61A1-E211-B10C-0050569C003B}
+Regis University,80221-1099,E-4,3333 Regis Blvd.,,Denver,CO,,US,2862,{0899F957-2B69-E111-92F0-005056837252}
+Union University,38305,1050 Union University Drive,,,Jackson,TN,,US,1020,{D0FC26EC-2A69-E111-92F0-005056837252}
+The University of Tennessee-Knoxville,37996-4352,F101 Melrose Hall,1616 Melrose Pl.,,Knoxville,TN,Knox County,US,172133,{70FBDF97-31E8-E311-8578-0050569C32C4}
+University of Oregon,97403,Clark Honors College,1293 University of Oregon,,Eugene,OR,St. Joseph County,US,171200,{88868D47-5F37-E311-842D-0050569C003B}
+Northern Essex Community College,1830,Honors Experience 100 Elliot Street,,,Haverhill,MA,Essex County,US,429,{D1FC26EC-2A69-E111-92F0-005056837252}
+The College of New Jersey,08628-0718,PO Box 7718 Green Hall 109,2000 Pennington Road,,Ewing,NJ,Mercer County,US,118,{7BAF21F2-2A69-E111-92F0-005056837252}
+Bentley University,02452-4705,175 Forest St.,,,Waltham,MA,Middlesex County,US,171342,{940BA200-A878-E311-842D-0050569C003B}
+Tennessee State University,37209-1561,3500 John A. Merritt Blvd,PO Box 9545,,Nashville,TN,,US,147179,{8A7294A9-77BE-E211-BD47-0050569C003B}
+Arizona State University,85287-1612,"Barrett, The Honors College",P.O. Box 871612,,Tempe,AZ,Maricopa County,US,16,{D6FC26EC-2A69-E111-92F0-005056837252}
+California State University Fullerton,92834-6830,800 N. State College Blvd. University Honors & Scholars PLN-120,,,Fullerton,CA,Orange County,US,64,{D9FC26EC-2A69-E111-92F0-005056837252}
+Rio Salado College,85281,2323 W. 14th St.,,,Tempe,AZ,Maricopa County,US,172867,{947490DB-4F38-E411-904E-0050569C32C4}
+St. Louis Community College at Forest Park,63110,English Department,5600 Oakland,,St. Louis,MO,St. Louis city,US,561,{2C5D36E0-2A69-E111-92F0-005056837252}
+Arkansas Tech University,72801-2222,407 W. Q St. WPN 255,,,Russellville,AR,Pope County,US,19,{DEFC26EC-2A69-E111-92F0-005056837252}
+Evangel University,,1111 N Glenstone,,,Springfield,MO,,US,172180,{3C2DD202-2CF7-E311-8578-0050569C32C4}
+Northwest Missouri State University,64468,800 University Drive,,,Maryville,MO,Nodaway County,US,80331,{D00C4FD2-46F1-E111-AF58-0050569C003B}
+Freed-Hardeman University,38340,158 East Main Street,,,Henderson,TN,Chester County,US,1388,{35FD26EC-2A69-E111-92F0-005056837252}
+University of Mount Union,44601,Honors Program,1972 Clark Ave,,Alliance,OH,Stark County,US,172096,{48A3290B-00DD-E311-8578-0050569C32C4}
+University of Hartford,06117,200 Bloomfield Ave. Auerbach Hall 212 i,,,West Hartford,CT,Hartford County,US,653,{3CFD26EC-2A69-E111-92F0-005056837252}
+Edinboro University of Pennsylvania,16444,219 Meadville Street,Robert C. Weber Honors Program,,Edinboro,PA,Erie County,US,1257,{DDFC26EC-2A69-E111-92F0-005056837252}
+Appalachian State University,28608-,ASU Box 32073,,,Boone,NC,Watauga County,US,847,{3DFD26EC-2A69-E111-92F0-005056837252}
+Parkland College,61821,2400 W. Bradley Ave.,,,Champaign,IL,Champaign County,US,1097,{E4FC26EC-2A69-E111-92F0-005056837252}
+University of Memphis,38152-6140,Honors Program,Campus Box 526140,,Memphis,TN,,US,678,{E5FC26EC-2A69-E111-92F0-005056837252}
+Polk State College,33881,"District Dean, Academic and Student Services",999 Avenue H Northeast,,Winter Haven,FL,Polk County,US,474,{E0FC26EC-2A69-E111-92F0-005056837252}
+Broward College,33301,Willis Holcombe Center,225 E. Las Olas Blvd.,,Fort Lauderdale,FL,Broward County,US,173315,{D3314D5F-9A5B-E411-A09A-0050569C32C4}
+Gardner-Webb University,28017,GWU Honors Program,P.O. Box 7264,,Boiling Springs,NC,Cleveland County,US,211,{E1FC26EC-2A69-E111-92F0-005056837252}
+Cerritos College,90650,Scholars' Honors Program,11110 E. Alondra Blvd.,,Norwalk,CA,Los Angeles County,US,82,{39FD26EC-2A69-E111-92F0-005056837252}
+Embry-Riddle Aeronautical University,32114,Honors Program,600 S. Clyde Morris Blvd.,,Daytona Beach,FL,Volusia County,US,183,{E3FC26EC-2A69-E111-92F0-005056837252}
+St. Ambrose University,52803,518 West Locust Street,Sociology & Criminal Justice,,Davenport,IA,,US,2227,{EAFC26EC-2A69-E111-92F0-005056837252}
+Elgin Community College,60123-7193,Honors Program,1700 Spartan Dr.,,Elgin,IL,Kane County,US,113170,{99D56FC4-3F66-E211-B10B-0050569C003B}
+University of North Florida,32224,Honors Program,"1UNF Drive, Bldg. 10, Room 2125",,Jacksonville,FL,Duval County,US,83983,{4050B460-D500-E211-AF59-0050569C003B}
+Southern Arkansas University,71754,Honors College,P.O. Box 9199,100 E. University,Magnolia,AR,Columbia County,US,1320,{E6FC26EC-2A69-E111-92F0-005056837252}
+John Carroll University,44118,Honors Program,1 John Carroll Blvd.,,University Heights,OH,Cuyahoga County,US,290,{F4FC26EC-2A69-E111-92F0-005056837252}
+Bluffton University,45817,1 University Dr.,,,Bluffton,OH,,US,129902,{C004FA4E-CA98-E211-B10C-0050569C003B}
+California State University Bakersfield,93311-1099,9001 Stockdale Highway,,,Bakersfield,CA,,US,171221,{CA00FB2C-F938-E311-842D-0050569C003B}
+Florida Gulf Coast University,33965-6565,10501 FGCU Blvd. S.,,,Ft. Myers,FL,Lee County,US,196,{2D5D36E0-2A69-E111-92F0-005056837252}
+Albion College,49224,Prentiss M. Brown Honors Institute,600 Porter St.,Kellogg Center #4762,Albion,MI,Calhoun County,US,2267,{41FD26EC-2A69-E111-92F0-005056837252}
+Cheyney University of Pennsylvania,19319,1837 University Circle P.O. Box 200,,,Cheyney,PA,Delaware County,US,1704,{42FD26EC-2A69-E111-92F0-005056837252}
+Western Oregon University,97361,Western Oregon University,Honors Program APSC 210,345 N. Monmouth Ave.,Monmouth,OR,,US,67578,{01E7F15D-2B69-E111-92F0-005056837252}
+Qatar University,2713,Dept of Chemical Engineering,Qatar University,,Doha,,,Qatar,69950,{F2013D5B-4CA8-E111-B259-0050569C003B}
+University of Wisconsin-Whitewater,53190,Andersen 2111,800 W. Main St.,,Whitewater,WI,Walworth County,US,172849,{DDCE0B5F-7837-E411-904E-0050569C32C4}
+Radford University,24142,Honors Academy,P.O. Box 6971,,Radford,VA,Radford city,US,483,{3EFD26EC-2A69-E111-92F0-005056837252}
+Bridgewater State University,02325,Honors Center,Maxwell Library,10 Shaw Road,Bridgewater,MA,,US,75611,{A4EE953B-45D7-E111-89B0-0050569C003B}
+State University of New York at Fredonia,14063,E314 Thompson Hall,,,Fredonia,NY,,US,144204,{CA92EB96-80B6-E211-BD45-0050569C003B}
+State University of New York-Stony Brook,11794-3357,Honors College,3351 Nichols Rd.,,Stony Brook,NY,,US,2211,{40FD26EC-2A69-E111-92F0-005056837252}
+Arcadia University,19038,450 S. Easton Road,,,Glenside,PA,,US,66530,{E9FBEE63-2B69-E111-92F0-005056837252}
+Shippensburg University of Pennsylvania,17257,Horton Hall 102,1871 Old Main Dr.,,Shippensburg,PA,Cumberland County,US,526,{F0FC26EC-2A69-E111-92F0-005056837252}
+University of Illinois- Springfield,62703,Capital Scholars Honors Program,One University Plaza,MS LRH 101,Springfield,IL,Sangamon County,US,169686,{147CBFF9-7D1C-E311-BD48-0050569C003B}
+Post University,06708,800 Country Club Road,,,Waterbury,CT,,US,84719,{8A59A7EF-F401-E211-AF59-0050569C003B}
+LaGuardia Community College-CUNY,11101,31-10 Thomson Avenue,"Department of English, E103",,Long Island City,NY,Queens County,US,1099,{2E5D36E0-2A69-E111-92F0-005056837252}
+Bloomsburg University of Pennsylvania,17815-1399,Director of Honors Program,400 East 2nd St.,B12 Luzerne Hall,Bloomsburg,PA,Columbia County,US,44,{46FD26EC-2A69-E111-92F0-005056837252}
+Western Michigan University,49008-5244,Lee Honors College,1903 W. Michigan Ave.,,Kalamazoo,MI,,US,124350,{46FF25BF-AC85-E211-B10B-0050569C003B}
+Oral Roberts University,74171,Biology Dept. & Honors Director,7777 S. Lewis Ave.,,Tulsa,OK,Tulsa County,US,454,{F2FC26EC-2A69-E111-92F0-005056837252}
+Community College of Rhode Island,02865,1762 Louisquisset Pike,Physics Dept,,Lincoln,RI,,US,171218,{2AA27DEA-0338-E311-842D-0050569C003B}
+Keene State College,03435,Director of Honors Program,229 Main St.,,Keene,NH,Cheshire County,US,137582,{B29034F3-75AE-E211-BD45-0050569C003B}
+State University of New York-Brockport,14420,350 New Campus Drive,,,Brockport,NY,Monroe County,US,567,{F5FC26EC-2A69-E111-92F0-005056837252}
+Cazenovia College,13035,22 Sullivan Street,,,Cazenovia,NY,Madison County,US,76,{FFFC26EC-2A69-E111-92F0-005056837252}
+Southwest Minnesota State University,56258,1501 State St. BA 109,,,Marshall,MN,Lyon County,US,548,{F9FC26EC-2A69-E111-92F0-005056837252}
+The University of Scranton,18510-4644,800 Linden St,McDade CLP - 213,,Scranton,PA,,US,721,{F6FC26EC-2A69-E111-92F0-005056837252}
+The University of New Mexico,87131-1566,Honors Program MSC06 3890,1 University of New Mexico,,Albuquerque,NM,Bernalillo County,US,160901,{2C88327B-93F3-E211-BD48-0050569C003B}
+Morehead State University,40351,UPO Box 665,150 University Blvd.,,Morehead,KY,Rowan County,US,395,{43FD26EC-2A69-E111-92F0-005056837252}
+Jamestown Community College,14701,525 Falconer St.,P.O. Box 20,,Jamestown,NY,Chautauqua County,US,68635,{B0C946A4-2C8B-E111-B258-0050569C003B}
+Western Connecticut State University,06810,181 White St. Attn: Honors Program,Warner Hall Room 224,,Danbury,CT,Fairfield County,US,68051,{6652CA1D-146D-E111-A07E-0050569C003C}
+Syracuse University,13244-1200,Honors Program,306 Bowne Hall,,Syracuse,NY,Onondaga County,US,67829,{F7FC26EC-2A69-E111-92F0-005056837252}
+College of San Mateo,94402,College of San Mateo,1700 W. Hillsdale Blvd,,San Mateo,CA,San Mateo County,US,173081,{A6786701-AC3D-E411-904E-0050569C32C4}
+Mount St. Mary's College,90049-1599,12001 Chalon Rd,,,Los Angeles,CA,,US,127800,{BC595805-D091-E211-B10B-0050569C003B}
+Saxion University of Applied Sciences,,P.O. Box 70.000,7500 KB Enschede,,,,,Netherlands,67877,{00FD26EC-2A69-E111-92F0-005056837252}
+Stonehill College,02357,Director of Honors Program,320 Washington Street,,Easton,MA,,US,168390,{D1503DA2-290F-E311-BD48-0050569C003B}
+Emory & Henry College,24340,Department of Political Science,222 McGlothlin-Street Hall,,Emory,VA,Washington County,US,67481,{45FD26EC-2A69-E111-92F0-005056837252}
+University of Maryland-Eastern Shore,21853-,Hazel Hall,,,Princess Anne,MD,,US,1619,{E1FBEE63-2B69-E111-92F0-005056837252}
+Southwest Baptist University,65613,1600 University Ave,,,Bolivar,MO,Polk County,US,547,{FCFC26EC-2A69-E111-92F0-005056837252}
+University of West Florida,32514,11000 University Pkwy.,Pace Hall,,Pensacola,FL,,US,747,{4BFD26EC-2A69-E111-92F0-005056837252}
+Butler University,46208,Honor Program Director,4600 Sunset Avenue,,Indianapolis,IN,Marion County,US,172055,{660A5E4C-E6D5-E311-8578-0050569C32C4}
+Concordia College at Moorhead,56562,901 S 8th St,,,Moorhead,MN,,US,172003,{460244E0-7AC5-E311-97FD-0050569C32C4}
+Clemson University,29634-5106,Calhoun Honors College,105 Tillman - Box 345106,,Clemson,SC,Pickens County,US,1172,{FDFC26EC-2A69-E111-92F0-005056837252}
+Lincoln Land Community College,62794-9256,5250 Sheperd,P.O. Box 19256,,Springfield,IL,Sangamon County,US,320,{05FD26EC-2A69-E111-92F0-005056837252}
+Montgomery College,20850,Honors Program,51 Mannakee St.,,Rockville,MD,Montgomery County,US,392,{06FD26EC-2A69-E111-92F0-005056837252}
+University of St. Thomas,55105,2115 Summit Avenue,,,St. Paul,MN,Ramsey County,US,1321,{325D36E0-2A69-E111-92F0-005056837252}
+University of Florida,32611-6550,1949 Stadium Road,P.O. Box 116550,,Gainesville,FL,Alachua County,US,172227,{EA19B150-C002-E411-8578-0050569C32C4}
+Texas A & M at Galveston,77553,200 Seawolf Parkway,P.O. Box 1675,,Galveston,TX,Galveston County,US,1346,{03FD26EC-2A69-E111-92F0-005056837252}
+Langston University,73050,P.O. Box 848,111 Jones Hall,,Langston,OK,,US,1304,{094DE769-2B69-E111-92F0-005056837252}
+Norfolk State University,23504,700 Park Avenue,,,Norfolk,VA,Norfolk city,US,68599,{828109AA-6B77-E111-B258-0050569C003B}
+University of Connecticut,06269-2147,368 Fairfield Road Unit 2147,,,Storrs,CT,Tolland County,US,76930,{3C2CDF20-4CE5-E111-89B0-0050569C003B}
+Unity College,04988,90 Quaker Hill Rd,,,Unity,ME,,US,171554,{1EEE3452-6E97-E311-97FD-0050569C003B}
+Anna Maria College,01612-1198,50 Sunset Lane,,,Paxton,MA,Worcester County,US,173305,{16BF52E6-ED59-E411-A09A-0050569C32C4}
+Montana State University-Bozeman,59717-2140,P.O. Box 172140,,,Bozeman,MT,Gallatin County,US,390,{12FD26EC-2A69-E111-92F0-005056837252}
+Cleveland State University,44115,Honors Program,"2121 Euclid Ave., LB 246",,Cleveland,OH,Cuyahoga County,US,172778,{20AC894B-F334-E411-904E-0050569C32C4}
+Midwestern State University,76308,Honors Program,3410 Taft Blvd.,,Wichita Falls,TX,Wichita County,US,1675,{4DAD2EE6-2A69-E111-92F0-005056837252}
+McMurry University,79697-0001,Box 1028,,,Abilene,TX,Taylor County,US,355,{07FD26EC-2A69-E111-92F0-005056837252}
+Gateway Community College,85034,Honors Program,108 N. 40th St.,,Phoenix,AZ,,US,172964,{605D28BB-AD3A-E411-904E-0050569C32C4}
+Suffolk University,02114-4280,"Assistant Dean, Director of Graduate Programs",CAS Dean's Office,41 Temple Street,Boston,MA,Suffolk County,US,578,{5A5D36E0-2A69-E111-92F0-005056837252}
+Marist College,12601,Honors Program-Lowell Thomas 223,3399 North Rd.,,Poughkeepsie,NY,Dutchess County,US,2018,{5B5D36E0-2A69-E111-92F0-005056837252}
+Mesa Community College,85202,1833 W. Southern Ave.,,,Mesa,AZ,,US,2795,{604DE769-2B69-E111-92F0-005056837252}
+Illinois Valley Community College,61348,Honors Program Leader B325a,815 N. Orlando Smith Ave.,,Oglesby,IL,LaSalle County,US,2192,{49FD26EC-2A69-E111-92F0-005056837252}
+University of South Carolina-Aiken,29801,471 University Pkwy,,,Aiken,SC,Lancaster County,US,2209,{48FD26EC-2A69-E111-92F0-005056837252}
+Fitchburg State College,01420,160 Pearl Street,,,Fitchburg,MA,Davidson County,US,195,{4AFD26EC-2A69-E111-92F0-005056837252}
+University of Missouri-Kansas City,64110,711 E 51st Street FLL Scofield Hall 216,,,Kansas City,MO,Jackson County,US,684,{5E5D36E0-2A69-E111-92F0-005056837252}
+University of Central Missouri,64093-5299,108 W. South St.,Kirkpatrick Library 1450,,Warrensburg,MO,Johnson County,US,642,{5F5D36E0-2A69-E111-92F0-005056837252}
+DeVry University,60515,3005 Highland Parkway,,,Downers Grove,IL,,US,172446,{2C97FB14-811D-E411-904E-0050569C32C4}
+Widener University,19013-5792,Honors Program in General Education,One University Place,,Chester,PA,Delaware County,US,799,{6C5D36E0-2A69-E111-92F0-005056837252}
+Elmira College,14901,One Park Place,,,Elmira,NY,Chemung County,US,167956,{8A6FD840-610B-E311-BD48-0050569C003B}
+Texas Woman's University,76204,P.O. Box 425678,,,Denton,TX,Denton County,US,605,{675D36E0-2A69-E111-92F0-005056837252}
+Harrisburg Area Community College,17110-2999,One HACC Drive,,,Harrisburg,PA,Dauphin County,US,172934,{B0FB914F-E739-E411-904E-0050569C32C4}
+West Texas A & M University,79016,Admn. Director of Honors Program,"WTAMU, P.O. Box 60247",,Canyon,TX,Randall County,US,123911,{AE020343-B281-E211-B10B-0050569C003B}
+University of the Incarnate Word,78209,"Director, Honors Program","4301 Broadway, CPO 346",,San Antonio,TX,Bexar County,US,931,{635D36E0-2A69-E111-92F0-005056837252}
+University of Tampa,33606-1490,Honors Program,401 W. Kennedy Blvd,,Tampa,FL,,US,733,{685D36E0-2A69-E111-92F0-005056837252}
+Metropolitan State University of Denver,80217-3362,Campus Box 64,P.O. Box 173362,,Denver,CO,Denver County,US,171193,{C8603AD3-9436-E311-842D-0050569C003B}
+University of Evansville,47722,1800 Lincoln Ave.,,,Evansville,IN,Vanderburgh County,US,650,{695D36E0-2A69-E111-92F0-005056837252}
+Anderson University,46012,1100 E. Fifth St.,,,Anderson,IN,,US,2164,{6A5D36E0-2A69-E111-92F0-005056837252}
+University of South Carolina,29208,902 Sumter St.,Harper College,,Columbia,SC,Richland County,US,2134,{6B5D36E0-2A69-E111-92F0-005056837252}
+Winthrop University,29733,7A Bancroft Annex,701 Oakland Ave.,,Rock Hill,SC,York County,US,803,{57FD26EC-2A69-E111-92F0-005056837252}
+St. Cloud State University,56301-4498,CH 216 720 - 4th Avenue South,,,St. Cloud,MN,,US,553,{82AD2EE6-2A69-E111-92F0-005056837252}
+University of Arizona,85721-0006,P.O. Box 21006,1027 E. 2nd St.,,Tucson,AZ,Pima County,US,1073,{58FD26EC-2A69-E111-92F0-005056837252}
+Monroe College,10468,2501 Jerome Avenue,,,Bronx,NY,,US,87571,{C8BAC064-DA08-E211-AF59-0050569C003B}
+Cedarville University,45314,Honors Program,251 N. Main St.,,Cedarville,OH,,US,167103,{D89E3AB2-660A-E311-BD48-0050569C003B}
+Framingham State University,01701,Honors Program,100 State St.,,Framingham,MA,Middlesex County,US,1147,{6F5D36E0-2A69-E111-92F0-005056837252}
+Indian River State College,34981-5596,3209 Virginia Ave.,,,Fort Pierce,FL,St. Lucie County,US,172299,{64B4DB20-4D0C-E411-B837-0050569C32C4}
+The American College of Greece-Deree College,,6 Gravias Street,Aghia Paraskevi,,Athens,Greece GR-15342,,GR,124283,{E2ED96F9-9E85-E211-B10B-0050569C003B}
+Miami University Oxford,45056,300 E. Spring St. Rm 96 Bishop Hall,,,Oxford,OH,Butler County,US,172921,{5C843852-B039-E411-904E-0050569C32C4}
+Western Washington University,98225-9112,Honors Program,516 High St.,,Bellingham,WA,Whatcom County,US,794,{785D36E0-2A69-E111-92F0-005056837252}
+Midland College,79705,3600 N. Garfield MHAB 155,,,Midland,TX,,US,2122,{6B4DE769-2B69-E111-92F0-005056837252}
+Massasoit Community College-Brockton,02302,1 Massasoit Blvd.,,,Brockton,MA,,US,73904,{30176421-34D0-E111-89B0-0050569C003B}
+University of Montevallo,35115,University of Montevallo,Station 6501 - Hill House,,Montevallo,AL,,US,133351,{96C2A90A-93A3-E211-B10C-0050569C003B}
+The University of Texas at El Paso,79968-0607,500 W. University Ave Honors House Honors Program,,,El Paso,TX,,US,2225,{745D36E0-2A69-E111-92F0-005056837252}
+Southern New Hampshire University,03106-1045,Honors Program,2500 N. River Rd.,,Manchester,NH,Merrimack County,US,544,{4EFD26EC-2A69-E111-92F0-005056837252}
+Delft University of Technology,,Jaffalaan 9a,,,Delft 2628 BX,,,Netherlands,78922,{3E54BB81-60EC-E111-89B0-0050569C003B}
+University of New Hampshire,03824,89 Main Street,Hood House,,Durham,NH,Strafford County,US,172210,{549806D1-5F01-E411-8578-0050569C32C4}
+LeTourneau University,75607-7001,P.O. Box 7001,2100 Mobberly Avenue,,Longview,TX,Gregg County,US,317,{355D36E0-2A69-E111-92F0-005056837252}
+Cairn University,19047-2990,Honors Program,200 Manor Ave.,,Langhorne,PA,Bucks County,US,2226,{50FD26EC-2A69-E111-92F0-005056837252}
+"Rutgers University, New Brunswick",08901,School of Arts & Sciences Honors Program,35 College Avenue,,New Brunswick,NJ,Middlesex County,US,1003,{765D36E0-2A69-E111-92F0-005056837252}
+American International College,01604-,Assistant Professor of History/Director of Honor Program,1000 State Street,,Springfield,MA,Hampden County,US,843,{51FD26EC-2A69-E111-92F0-005056837252}
+American University,20016,Hughes Hall 1rst Floor South,4400 Massachusetts Ave. NW,,Washington,DC,District of Columbia,US,1056,{845D36E0-2A69-E111-92F0-005056837252}
+Towson University,21252-0001,8000 York Rd.,Stephen’s Hall 302,,Towson,MD,Baltimore County,US,172203,{DAC5F210-66FD-E311-8578-0050569C32C4}
+Northampton County Area Comm. Col.,18017,3835 Green Pond Rd.,,,Bethlehem,PA,Northampton County,US,421,{4DFDEE63-2B69-E111-92F0-005056837252}
+Molloy College,11570,1000 Hempstead Ave,,,Rockville Centre,NY,,US,70381,{FC18232C-8AB5-E111-B259-0050569C003B}
+Gwynedd-Mercy College,19437-0901,1325 Sumneytown Pike,P.O. Box 0901,,Gwynedd Valley,PA,Montgomery County,US,172164,{BC3AF80D-74F1-E311-8578-0050569C32C4}
+Fordham University,10458,Rose Hill Campus,Honors Program,,Bronx,NY,Bronx County,US,149001,{2031084F-D3C7-E211-BD48-0050569C003B}
+Washburn University,66621,1700 Southwest College Avenue,Dept. of Psychology,,Topeka,KS,Shawnee County,US,1368,{52FD26EC-2A69-E111-92F0-005056837252}
+Laredo Community College,78040,One West End Washington Street,,,Laredo,TX,Webb County,US,1102,{7F5D36E0-2A69-E111-92F0-005056837252}
+Virginia Polytechnic Institute & State University,24061-0427,Honors Program,130 Hillcrest Hall,,Blacksburg,VA,,US,68648,{9459C2C1-3A8E-E111-B258-0050569C003B}
+University of Montana-Missoula,59812,Davidson Honors College,32 Campus Dr,,Missoula,MT,,US,686,{825D36E0-2A69-E111-92F0-005056837252}
+Alvin Community College,77511,Honors Program,3110 Mustang Rd.,,Alvin,TX,Brazoria County,US,172089,{26200A6A-BDDA-E311-8578-0050569C32C4}
+Tyler Junior College,75711,Honors Program,"Box 9020, TJC",,Tyler,TX,Smith County,US,79171,{9EB94482-8EEC-E111-89B0-0050569C003B}
+University of Washington Tacoma,98402,1900 Commerce St.,CP 311C Box 358436,,Tacoma,WA,Pierce County,US,746,{8A5D36E0-2A69-E111-92F0-005056837252}
+Kentucky State University,40601-2355,Whitney Young School,400 East Main Carver Hall 133,,Frankfort,KY,Franklin County,US,303,{8B5D36E0-2A69-E111-92F0-005056837252}
+Utah Valley University,84058,800 W. University Parkway,Mail Stop 274,,Orem,UT,Utah County,US,132666,{92455932-11A2-E211-B10C-0050569C003B}
+Quinsigamond Community College,01606,Honors Program,670 W. Boylston St.,,Worcester,MA,Worcester County,US,482,{865D36E0-2A69-E111-92F0-005056837252}
+Elizabethtown College,17022-2298,One Alpha Dr.,,,Elizabethtown,PA,Lancaster County,US,180,{875D36E0-2A69-E111-92F0-005056837252}
+University of Nevada-Las Vegas,89154-7003,Honors College,4505 Maryland Pkwy.,,Las Vegas,NV,Clark County,US,117703,{2C06C95D-F176-E211-B10B-0050569C003B}
+University of Colorado-Denver,80217-3364,1047 Ninth Street Park,,,Denver,CO,Denver County,US,645,{53FD26EC-2A69-E111-92F0-005056837252}
+University of Cincinnati,45221-0007,705A Swift Hall,P.O. Box 210007,,Cincinnati,OH,Hamilton County,US,643,{895D36E0-2A69-E111-92F0-005056837252}
+Nashua Community College,03063,505 Amherst Street,,,Nashua,NH,Hillsborough County,US,2250,{385D36E0-2A69-E111-92F0-005056837252}
+Saint Francis University,15940,P.O. Box 600,117 Evergreen Dr.,,Loretto,PA,Cambria County,US,555,{8D5D36E0-2A69-E111-92F0-005056837252}
+Southern Illinois University Carbondale,62901,605 Agricultural Drive,Morris Library 110 Mailcode 6532,,Carbondale,IL,Jackson County,US,542,{8E5D36E0-2A69-E111-92F0-005056837252}
+Graceland University,50140-,Honors Director,1 University Place,,Lamoni,IA,,US,842,{8F5D36E0-2A69-E111-92F0-005056837252}
+Old Dominion University,23529-0076,Student Success Center Room 2000,,,Norfolk,VA,Norfolk city,US,451,{54FD26EC-2A69-E111-92F0-005056837252}
+Saint Mary's University of Minnesota,55987,700 Terrace Heights Box 1527,,,Winona,MN,Winona County,US,67416,{965D36E0-2A69-E111-92F0-005056837252}
+Walden University,30022,11030 Wittenridge Drive,,,Alpharetta,GA,,US,81088,{DAEE5B1D-A8F3-E111-AF58-0050569C003B}
+University of North Carolina at Pembroke,28372,One University Drive,,,Pembroke,NC,Robeson County,US,75721,{62ACE902-A4DC-E111-89B0-0050569C003B}
+Southeastern University,33801,1000 Longfellow Blvd.,,,Lakeland,FL,Polk County,US,1120,{915D36E0-2A69-E111-92F0-005056837252}
+University of Denver,80208,2199 S. University Blvd. Mary Reed Building 5B,,,Denver,CO,Denver County,US,172891,{FB11A0C6-6538-E411-904E-0050569C32C4}
+Utah State University,84322-1438,1438 Old Main Hill,Old Main 015,,Logan,UT,Carbon County,US,172153,{D5570AB2-BDED-E311-8578-0050569C32C4}
+Chandler-Gilbert Community College,85225-2499,2626 E. Pecos Rd.,,,Chandler,AZ,Maricopa County,US,84,{935D36E0-2A69-E111-92F0-005056837252}
+Dallas Baptist University,75211-9299,3000 Mountain Creek Pkwy.,,,Dallas,TX,Dallas County,US,145,{945D36E0-2A69-E111-92F0-005056837252}
+University of the Sciences in Philadelphia,19104,217 Kline Hall,600 South 43rd Street,,Philadelphia,PA,,US,172082,{5CCF8224-08DA-E311-8578-0050569C32C4}
+Doane College,68333,1014 Boswell Ave.,,,Crete,NE,Saline County,US,70172,{70DEDA1C-BDB4-E111-B259-0050569C003B}
+University of Houston,77204-2001,The Honors College,212 M.D. Anderson Library,,Houston,TX,Harris County,US,1456,{9E5D36E0-2A69-E111-92F0-005056837252}
+Palm Beach State College,33461,4300 Congress Ave. MS #51,,,Lake Worth,FL,Palm Beach County,US,459,{5DFD26EC-2A69-E111-92F0-005056837252}
+Winston-Salem State University,27110,601 Martin Luther King Jr. Drive,Carolina Hall G038,,Winston-Salem,NC,Forsyth County,US,1594,{A35D36E0-2A69-E111-92F0-005056837252}
+University of Northern Iowa,50614-0355,University Honors Program,2401 College St.,,Cedar Falls,IA,,US,712,{985D36E0-2A69-E111-92F0-005056837252}
+Spelman College,30314-4399,Honors Program,350 Spelman Lane SW,,Atlanta,GA,Fulton County,US,147209,{94318FCE-7CC1-E211-BD47-0050569C003B}
+State University of New York-Oswego,13126,221 Campus Center SUNY-Oswego,,,Oswego,NY,Oswego County,US,66507,{9A5D36E0-2A69-E111-92F0-005056837252}
+"Tecnologico de Monterrey, Monterrey Campus",NL 64849,Av. E Garza Sada 2501 Col. Tecnologico,"Monterrey, Nuevo Leon 64849",,Monterrey,,,MX,1385,{59FD26EC-2A69-E111-92F0-005056837252}
+New Jersey City University,07305,William J. Maxwell College of Arts and Sciences,2039 Kennedy Boulevard,,Jersey City,NJ,,US,148426,{5CD2A0F7-A9C3-E211-BD48-0050569C003B}
+Trine University,46703,1 University Avenue,,,Angola,IN,Steuben County,US,940,{9D5D36E0-2A69-E111-92F0-005056837252}
+Bowling Green State University,43403,024 Founders,,,Bowling Green,OH,Wood County,US,171331,{99CD2CF8-AA62-E311-842D-0050569C003B}
+Roanoke College,24153-3794,221 College Lane,,,Salem,VA,Salem city,US,172251,{499411DE-E006-E411-8578-0050569C32C4}
+Abilene Christian University,79699-9142,ACU Box 29142,,,Abilene,TX,Taylor County,US,173337,{8714FC82-4460-E411-A09A-0050569C32C4}
+Middle Georgia State College,31206,100 College Station Drive,,,Macon,GA,Bibb County,US,948,{5AFD26EC-2A69-E111-92F0-005056837252}
+Hogeschool van Arnhem en Nijmegen,6802 EJ,ruitenberglaan 27,,,arnhem,,,Netherlands,172556,{8FF04CB0-592C-E411-904E-0050569C32C4}
+Western Kentucky University,42101-1082,Assistant Director,University Honors College,1906 College Heights Blvd. #31082,Bowling Green,KY,,US,1032,{054DE769-2B69-E111-92F0-005056837252}
+Elon University,27244-2010,Campus Box 2337,100 Campus Dr.,,Elon,NC,Alamance County,US,151852,{A832FC15-46D4-E211-BD48-0050569C003B}
+University of Alaska Anchorage,,,,,,,,US,173037,{BA60FCB3-0D3D-E411-904E-0050569C32C4}
+Russell Sage College,12180,Honors Program,65 First Street,,Troy,NY,Cook County,US,67872,{9F5D36E0-2A69-E111-92F0-005056837252}
+University of Akron,44325-1803,Honors Program,180 S. College St.,,Akron,OH,,US,620,{5BFD26EC-2A69-E111-92F0-005056837252}
+Monroe Community College,14623-5780,1000 East Henrietta Road,,,Rochester,NY,Monroe County,US,172270,{CADE6EB6-4008-E411-8578-0050569C32C4}
+Southern Oregon University,97520,1250 Siskiyou Blvd.,,,Ashland,OR,Jackson County,US,155616,{26554866-22E0-E211-BD48-0050569C003B}
+Elmhurst College,60126-3296,Center for Professional Excellence,190 Prospect Avenue,,Elmhurst,IL,DuPage County,US,181,{A15D36E0-2A69-E111-92F0-005056837252}
+City University of New York-City College,10031,Honors Program,Convent Ave. & 138 St.,,New York,NY,New York County,US,172173,{896F85A9-19F3-E311-8578-0050569C32C4}
+Mount Wachusett Community College,01440,Honors Program,444 Green St.,,Gardner,MA,Worcester County,US,403,{A55D36E0-2A69-E111-92F0-005056837252}
+Bryan College,37321-6275,721 Bryan Drive,Box 7806,,Dayton,TN,Rhea County,US,68666,{3842C5D3-6490-E111-B258-0050569C003B}
+Colorado State University,80523-1025,University Honors Program,Campus Delivery 1025,,Fort Collins,CO,,US,129,{E9FC26EC-2A69-E111-92F0-005056837252}
+Anderson University-South Carolina,29621,316 Boulevard,#1099,,Anderson,SC,,US,128656,{5EFF3B4E-4E95-E211-B10C-0050569C003B}
+University of Alaska Southeast - Juneau Campus,99801,11120 Glacier Highway,,,Juneau,AK,Juneau City and Borough,US,2212,{A75D36E0-2A69-E111-92F0-005056837252}
+Mount Aloysius College,16630,7373 Admiral Peary Hwy.,,,Cresson,PA,Cambria County,US,68642,{EC495589-1A8E-E111-B258-0050569C003B}
+University of California Davis,95616,University Honors Program,"1342 Surge 111, One Shields Ave.",,Davis,CA,,US,112838,{E212F008-8265-E211-B10B-0050569C003B}
+Franklin Pierce University,03461,40 University Drive,,,Rindge,NH,Cheshire County,US,172490,{F291267B-2823-E411-904E-0050569C32C4}
+South Dakota State University,57007,SBL Box 2115,,,Brookings,SD,Brookings County,US,532,{A85D36E0-2A69-E111-92F0-005056837252}
+University of Houston-Downtown,77002,One Main Street,The Learning Connection Suite S-405,,Houston,TX,,US,96156,{4805D008-3417-E211-AF5A-0050569C003B}
+Southern Utah University,84720,351 W. University Blvd. Library Adm.,,,Cedar City,UT,Iron County,US,546,{5EFD26EC-2A69-E111-92F0-005056837252}
+Cedar Valley College,75134-3705,3030 North Dallas Avenue,,,Lancaster,TX,Dallas County,US,1450,{A95D36E0-2A69-E111-92F0-005056837252}
+La Salle University,19141-1199,Honors Program,1900 W. Olney Ave.,,Philadelphia,PA,,US,307,{AA5D36E0-2A69-E111-92F0-005056837252}
+University of Baltimore,21201-5779,"Helen P. Denit Honors Program, 554",1420 N. Charles St.,,Baltimore,MD,Baltimore city,US,130542,{C69D305B-B09B-E211-B8B2-0050569C003C}
+Auburn University at Montgomery,36124,P.O. Box 244023 Attention: Academic Affairs,,,Montgomery,AL,Montgomery County,US,67411,{60FD26EC-2A69-E111-92F0-005056837252}
+Florida International University,33199,The Honors College,11200 SW 8th Street DM 233,,Miami,FL,,US,200,{AC5D36E0-2A69-E111-92F0-005056837252}
+Marian University- Indiana,46222,3200 Cold Spring Rd.,Clare Hall 001,,Indianapolis,IN,,US,171380,{A6371575-3388-E311-842D-0050569C003B}
+Washington State University,99164-2012,Honors Hall 130,P.O. Box 642012,1130 Honors Hall,Pullman,WA,,US,169706,{F4832EC8-991C-E311-BD48-0050569C003B}
+Liberty University,24502,Honors Program,1971 University Blvd.,,Lynchburg,VA,,US,319,{1DE5FE51-2B69-E111-92F0-005056837252}
+Shawnee State University,45662,Honors Program,940 Second St.,,Portsmouth,OH,Scioto County,US,172145,{7CD9100C-F3EC-E311-8578-0050569C32C4}
+Johnson & Wales University-Rhode Island,02903,8 Abbot Park Place,,,Providence,RI,Providence County,US,2297,{B8AD2EE6-2A69-E111-92F0-005056837252}
+Phoenix College,85013,1202 W. Thomas Rd.,,,Phoenix,AZ,Maricopa County,US,471,{AD5D36E0-2A69-E111-92F0-005056837252}
+Mount Mercy University,52402,Honors Program,1330 Elmhurst Dr. NE,,Cedar Rapids,IA,Linn County,US,400,{AE5D36E0-2A69-E111-92F0-005056837252}
+Malcolm X College,60612,1900 W. Van Buren,,,Chicago,IL,,US,171879,{DC6500E2-24A6-E311-97FD-0050569C003B}
+Arkansas State University,72467-2259,The Honors College,P.O. Box 2259,,State University,AR,Craighead County,US,18,{B55D36E0-2A69-E111-92F0-005056837252}
+Drexel University,19104,3141 Chestnut Street 5016 MacAlister Hall,,,Philadelphia,PA,Philadelphia County,US,66873,{2C4CE769-2B69-E111-92F0-005056837252}
+Southern Polytechnic State University,30060-2896,University Honors Program,1100 S Marietta Pkwy. D-103,,Marietta,GA,Cobb County,US,140009,{00367743-5EB3-E211-BD45-0050569C003B}
+Tulsa Community College,74119-2095,Honors Program,"909 S. Boston Ave., MC 523C",,Tulsa,OK,Tulsa County,US,2179,{B25D36E0-2A69-E111-92F0-005056837252}
+Wagner College,10301,One Campus Road,Department of Biological Sciences,,Staten Island,NY,,US,3128,{DC4CE769-2B69-E111-92F0-005056837252}
+University of Portland,97203,University of Portland,5000 N. Willamette Blvd,,Portland,OR,,US,716,{B35D36E0-2A69-E111-92F0-005056837252}
+Green Mountain College,05764,Honors Program Director,1 Brennan Circle,,Poultney,VT,Rutland County,US,171810,{AE7CF417-B3A3-E311-97FD-0050569C003B}
+Colorado School of Mines,80401-1887,McBride Honors Program in Public Affairs,1700 Illinois Street,,Golden,CO,Jefferson County,US,2025,{B45D36E0-2A69-E111-92F0-005056837252}
+Temple University,19122-6073,"Director, Honors Program",1809 North 13th Street,,Philadelphia,PA,Philadelphia County,US,587,{BC5D36E0-2A69-E111-92F0-005056837252}
+University of Maine,04469-5716,Thomson Honors Center Colvin Hall,,,Orono,ME,Penobscot County,US,667,{B65D36E0-2A69-E111-92F0-005056837252}
+Jacksonville State University,36265-1602,700 Pelham Road North,,,Jacksonville,AL,Calhoun County,US,173318,{89D3EA4F-F85D-E411-A09A-0050569C32C4}
+Mt. San Jacinto College District,92583,1499 N State Street,,,San Jacinto,CA,,US,2808,{ADE4FE51-2B69-E111-92F0-005056837252}
+Kent State University,44242-0001,Honors College,P.O. Box 5190,20 Stopher Hall,Kent,OH,Portage County,US,108558,{5057FF1E-B64A-E211-B878-0050569C003B}
+Brigham Young University,84602-2600,350 MSRB,,,Provo,UT,,US,53,{69AF21F2-2A69-E111-92F0-005056837252}
+New Jersey Institute of Technology,07102-1982,Albert Dorman Honors College,420 Fenster Hall,,Newark,NJ,Essex County,US,166064,{6E00E2EA-D905-E311-BD48-0050569C003B}
+Lubbock Christian University,79407-2099,"Director, Honors Program",5601 19th St.,,Lubbock,TX,Lubbock County,US,338,{6AFD26EC-2A69-E111-92F0-005056837252}
+St. Norbert College,54115,100 Grant Street,,,De Pere,WI,Brown County,US,1349,{65FD26EC-2A69-E111-92F0-005056837252}
+Southern Adventist University,37315,5010 University Drive PO Box 370,,,Collegedale,TN,Hamilton County,US,539,{C15D36E0-2A69-E111-92F0-005056837252}
+Ouachita Baptist University,71998,410 Ouachita Street Box 3787,,,Arkadelphia,AR,,US,66977,{11AD2EE6-2A69-E111-92F0-005056837252}
+Mercer University,31207,1400 Coleman Avenue,,,Macon,GA,Bibb County,US,868,{BD5D36E0-2A69-E111-92F0-005056837252}
+University of North Carolina at Charlotte,28223,9201 University City Blvd.,,,Charlotte,NC,Mecklenburg County,US,689,{705D36E0-2A69-E111-92F0-005056837252}
+Saint Louis University,63108,117 Verhaegen Hall,3634 Lindell Blvd.,,St. Louis,MO,St. Louis city,US,169259,{C047B2AA-9015-E311-BD48-0050569C003B}
+"Rutgers University, Newark",07102,190 University Avenue,,,Newark,NJ,Essex County,US,69938,{1AC1D0C1-28A4-E111-B259-0050569C003B}
+Morgan State University,21251,1700 East Cold Spring Lane,Jenkins Behavioral Science Bldg. Room 105,,Baltimore,MD,Baltimore city,US,1233,{67FD26EC-2A69-E111-92F0-005056837252}
+Chapman University,92866,Honors Program,One University Dr.,,Orange,CA,Orange County,US,85,{BF5D36E0-2A69-E111-92F0-005056837252}
+Sinclair Community College,45402-1460,Honors Program,444 W. Third St.,,Dayton,OH,Montgomery County,US,530,{C05D36E0-2A69-E111-92F0-005056837252}
+University of Texas at Arlington,76019-0419,"600 S. West St., Suite 108",,,Arlington,TX,,US,737,{CB5D36E0-2A69-E111-92F0-005056837252}
+Ithaca College,14850,953 Danby Road,,,Ithaca,NY,Tompkins County,US,114378,{10C615BE-066B-E211-B10B-0050569C003B}
+Lindsey Wilson College,42728,210 LIndsey Wilson St.,,,Columbia,KY,Adair County,US,66650,{C25D36E0-2A69-E111-92F0-005056837252}
+Northwood University,48640,400 Whiting Dr.,,,Midland,MI,Cook County,US,95707,{20AAEEDE-9214-E211-AF5A-0050569C003B}
+Purdue University,47906,Windsor Halls,205 North Russelll Street,,West Lafayette,IN,Lake County,US,68060,{B65110D4-D66D-E111-B258-0050569C003B}
+Alabama A&M University,35762,P.O. Box 251,,,Normal,AL,,US,97358,{A0CF4F85-751B-E211-B63E-0050569C003B}
+Maryville University,63141-7234,650 Maryville University Drive,,,St. Louis,MO,St. Louis County,US,349,{C45D36E0-2A69-E111-92F0-005056837252}
+Andrews University,49104,4141 Administration Drive,,,Berrian Springs,MI,Berrien County,US,870,{6BFD26EC-2A69-E111-92F0-005056837252}
+Meredith College,27607-5298,Honors Program,"Joyner 115, 3800 Hillsborough St.",,Raleigh,NC,Wake County,US,81460,{641AF27E-CCF6-E111-AF58-0050569C003B}
+Georgia Perimeter College,30021-2396,555 North Indian Creek Drive,,,Clarkston,GA,DeKalb County,US,215,{6EFD26EC-2A69-E111-92F0-005056837252}
+John Brown University,72761-2121,Honors Scholars Program,JBU Box 3075 - 2000 W. University St.,,Siloam Springs,AR,,US,75363,{E075A77C-76D6-E111-89B0-0050569C003B}
+Hawaii Pacific University,96813,1166 Fort Street Mall,Suite 200,,Honolulu,HI,Honolulu County,US,173300,{70C7F47C-9E58-E411-A09A-0050569C32C4}
+Richard J. Daley College,60652,Director of Honors Program,7500 S. Pulaski Rd,,Chicago,IL,,US,173306,{3B5EDDE9-EE59-E411-A09A-0050569C32C4}
+South Florida State College,33825-9356,Honors Program,600 West College Dr,,Avon Park,FL,Highlands County,US,533,{C85D36E0-2A69-E111-92F0-005056837252}
+Brazosport College,77566,Honors Program,500 College Dr.,,Lake Jackson,TX,Brazoria County,US,49,{E5AC2EE6-2A69-E111-92F0-005056837252}
+Greenville Technical College,29616,P.O. Box 5616,Mail Stop 1041,,Greenville,SC,Greenville County,US,1130,{CD5D36E0-2A69-E111-92F0-005056837252}
+University of North Carolina at Greensboro,27402-6170,Lloyd International Honors College,P.O. Box 26170,,Greensboro,NC,Guilford County,US,690,{CE5D36E0-2A69-E111-92F0-005056837252}
+University of North Dakota,58202-7187,Honors Program,370 Oxford St. Stop 7187,,Grand Forks,ND,,US,708,{6CFD26EC-2A69-E111-92F0-005056837252}
+East Tennessee State University,37614-0294,Dean of Honors College,P.O. Box 70589,,Johnson City,TN,Washington County,US,168,{D05D36E0-2A69-E111-92F0-005056837252}
+Endicott College,01915,376 Hale St.,,,Beverly,MA,Essex County,US,185,{EAAC2EE6-2A69-E111-92F0-005056837252}
+Schreiner University,78028-5967,2100 Memorial Blvd.,Logan Library,Attn: Rex Quick,Kerrville,TX,,US,81994,{94EA13B9-2DF8-E111-AF58-0050569C003B}
+Clarion University of Pennsylvania,16214,Honors Program,840 Wood St.,,Clarion,PA,Clarion County,US,171319,{916D66D9-B15D-E311-842D-0050569C003B}
+Western Carolina University,28723,HC 101 Balsam Hall,,,Cullowhee,NC,Jackson County,US,787,{6DFD26EC-2A69-E111-92F0-005056837252}
+McDaniel College,21157-4303,2 College Hill,,,Westminster,MD,Carroll County,US,80717,{546B61CF-1BF2-E111-AF58-0050569C003B}
+Susquehanna University,17870,514 University Avenue,Apefelbaum Hall Room 311,,Selinsgrove,PA,Snyder County,US,172655,{7EF073FA-9C2F-E411-904E-0050569C32C4}
+Assumption College,01609-1296,Honors Program,500 Salisbury Street,,Worcester,MA,Worcester County,US,169127,{EEAAF69A-AE14-E311-BD48-0050569C003B}
+Texas Lutheran University,78155,1000 W. Court St.,,,Seguin,TX,Guadalupe County,US,2104,{E6AC2EE6-2A69-E111-92F0-005056837252}
+University of the Pacific,95211,Honors Program,3601 Pacific Ave.,,Stockton,CA,San Joaquin County,US,741,{FBAC2EE6-2A69-E111-92F0-005056837252}
+Seton Hall University,07079,Director of Honors Program,Fahey Hall Room 304,400 South Orange Avenue,South Orange,NJ,Essex County,US,111276,{C4B888D6-3A5F-E211-B878-0050569C003B}
+University of Toledo,43606-3390,Jesup Scott Honors Collge,2801 W. Bancroft St,"Sullivan Hall 1020, MS# 504",Toledo,OH,Lucas County,US,742,{D5FD26EC-2A69-E111-92F0-005056837252}
+Wor-Wic Community College,21804,Honors Program,32000 Campus Dr.,,Salisbury,MD,Wicomico County,US,171333,{18DAF59F-4363-E311-842D-0050569C003B}
+Texas Southern University,77021,"Director, Honors College",3100 Cleburne,,Houston,TX,Harris County,US,68044,{5F52CA1D-146D-E111-A07E-0050569C003C}
+Oakland Community College,48304,2480 Opdyke Road,,,Bloomfield Hills,MI,,US,109462,{648CCC60-8956-E211-B878-0050569C003B}
+Platform Beta Techniek - Sirius Program,,Lange Voorhout 20 Postbus 556,2501 CN Den Haag,,The Hague,,,Netherlands,1302,{3E5D36E0-2A69-E111-92F0-005056837252}
+North Hennepin Community College,55445,7411 85th Avenue North,,,Brooklyn Park,MN,Hennepin County,US,1506,{E9AC2EE6-2A69-E111-92F0-005056837252}
+Mercy College-Dobbs Ferry Campus,10522,"Maher Hall, Room 206",555 Broadway,,Dobbs Ferry,NY,Westchester County,US,159935,{B8B46BAF-F9EE-E211-BD48-0050569C003B}
+Flathead Valley Community College,59901,777 Grandview Drive,,,Kalispell,MT,Flathead County,US,1178,{665D36E0-2A69-E111-92F0-005056837252}
+Arizona Western College,85366-0929,2020 South Ave. 8E P.O. Box 929,,,Yuma,AZ,,US,17,{57E6FE51-2B69-E111-92F0-005056837252}
+Governors State University,60466-0975,Honors Program,1 University Park Blvd.,,University Park,IL,,US,155327,{3E1E523F-ADDF-E211-BD48-0050569C003B}
+The Citadel,29409,171 Moultrie St.,Bond Hall Rm 290,,Charleston,SC,Charleston County,US,606,{EBAC2EE6-2A69-E111-92F0-005056837252}
+Northern Virginia Community College,22030,Associate Vice President,"3926 Pender Drive, Suite 150",,Fairfax,VA,Fairfax County,US,1909,{70AD2EE6-2A69-E111-92F0-005056837252}
+Indiana Wesleyan University,46953,Honors College,4201 South Washington St.,,Marion,IN,Grant County,US,280,{EDAC2EE6-2A69-E111-92F0-005056837252}
+Clarke University,52001,Director of Honors Program,1550 Clarke Drive,,Dubuque,IA,Dubuque County,US,83070,{F8AEFEBF-46FC-E111-AF59-0050569C003B}
+Montana Tech of The University of Montana,59701,1300 West Park St.,,,Butte,MT,Silver Bow County,US,391,{EFAC2EE6-2A69-E111-92F0-005056837252}
+Virginia State University,23806,Honors Program,Box 9207,,Petersburg,VA,Chesterfield County,US,771,{3A5D36E0-2A69-E111-92F0-005056837252}
+Armstrong Atlantic State University,31419,Dept. of Psychology,11935 Abercorn St.,,Savannah,GA,Chatham County,US,20,{F3AC2EE6-2A69-E111-92F0-005056837252}
+Duquesne University,15282-0001,G14 Assumption Hall,600 Forbes Ave.,,Pittsburgh,PA,Allegheny County,US,162,{F4AC2EE6-2A69-E111-92F0-005056837252}
+Olive-Harvey College,60628,10001 S. Woodlawn Ave,,,Chicago,IL,,US,172019,{61F205F9-56CA-E311-97FD-0050569C32C4}
+College of Mount St. Joseph,45233-1670,Honors Program,5701 Delhi Rd.,,Cincinnati,OH,Hamilton County,US,171610,{BC5DBEE4-A899-E311-97FD-0050569C003B}
+Mid-America Christian University,73170-9797,3500 SW 119th Street,,,Oklahoma City,OK,,US,79769,{3A00D69B-5CF0-E111-AF58-0050569C003B}
+"University of Amsterdam, The Netherlands",,Science Park 904 | 1098 XH,,,Amsterdam,,,Netherlands,2217,{F6AC2EE6-2A69-E111-92F0-005056837252}
+University of California-Irvine,92697-5680,1200 Student Services II,,,Irvine,CA,Orange County,US,636,{F7AC2EE6-2A69-E111-92F0-005056837252}
+South Carolina State University,29117,P.O. Box 7492,300 College Street,,Orangeburg,SC,Union County,US,1634,{F8AC2EE6-2A69-E111-92F0-005056837252}
+Young Harris College,30582,Honors Program Director,P.O. Box 68,1 College Street,Young Harris,GA,Towns County,US,977,{F9AC2EE6-2A69-E111-92F0-005056837252}
+College of Saint Elizabeth,07960,2 Convent Rd.,,,Morristown,NJ,Morris County,US,123,{3F5D36E0-2A69-E111-92F0-005056837252}
+Saddleback College,92692,28000 Marguerite Pkwy.,,,Mission Viejo,CA,Orange,US,68596,{94BD240C-4B77-E111-B258-0050569C003B}
+Roosevelt University,60605-1394,430 S. Michigan Ave.,,,Chicago,IL,Cook County,US,68037,{5752CA1D-146D-E111-A07E-0050569C003C}
+Nova Southeastern University,33314,223 Mailman Bldg.,3301 College Ave,,Fort Lauderdale,FL,Broward County,US,437,{70FD26EC-2A69-E111-92F0-005056837252}
+Lane Community College,97405,4000 E. 30th Avenue ASA (3/207),,,Eugene,OR,,US,67874,{33FDEE63-2B69-E111-92F0-005056837252}
+Eastern Florida State College,32922,1519 Clearlake Road,,,Cocoa,FL,Brevard County,US,2253,{72AD2EE6-2A69-E111-92F0-005056837252}
+Richard Stockton College of New Jersey,08205,101 Vera King Farris Drive,,,Galloway,NJ,,US,67820,{71FD26EC-2A69-E111-92F0-005056837252}
+Nazareth College of Rochester,14618,4245 East Avenue Music House,,,Rochester,NY,Monroe County,US,67455,{00AD2EE6-2A69-E111-92F0-005056837252}
+Bellarmine University,40205,2001 Newburg Road,,,Louisville,KY,Jefferson County,US,1208,{72FD26EC-2A69-E111-92F0-005056837252}
+Purdue University- Calumet,46321,,,2200 169th Street,Hammond,IN,,US,1013,{EE98F957-2B69-E111-92F0-005056837252}
+Edgewood College,53711,1000 Edgewood College Drive,,,Madison,WI,,US,98102,{DE8C87F2-A01D-E211-B63E-0050569C003B}
+Austin Community College- Texas,78741,1020 Grove Blvd.,,,Austin,TX,Travis County,US,2221,{FDAC2EE6-2A69-E111-92F0-005056837252}
+Ball State University,47306-0185,"Ball Honors House, BA 104",,,Muncie,IN,Delaware County,US,1124,{73FD26EC-2A69-E111-92F0-005056837252}
+Universidad del Este,00984-2010,PO Box 2010,,,Carolina,PR,,US,68594,{569DA628-6973-E111-B258-0050569C003B}
+Coastal Carolina University,29528,Honors Program,Prince 111C,P.O. Box 261954,Conway,SC,Horry County,US,130995,{72B2F74E-699C-E211-B10C-0050569C003B}
+University of Wisconsin-Oshkosh,54901-8654,University Honors Program (Oviatt House),800 Algoma Blvd.,,Oshkosh,WI,Winnebago County,US,123245,{C6AF5584-2F80-E211-B10B-0050569C003B}
+Fairleigh Dickinson University-Florham,07940,285 Madison Ave.,M-MS1-01,,Madison,NJ,Morris County,US,188,{77FD26EC-2A69-E111-92F0-005056837252}
+Springfield Technical Community College,01105-1296,1 Armory Sq,,,Springfield,MA,,US,172195,{95A98E58-85FC-E311-8578-0050569C32C4}
+Georgia Regents University Augusta,30904-2200,2500 Walton Way,Campus Box 17,,Augusta,GA,Richmond County,US,26,{01AD2EE6-2A69-E111-92F0-005056837252}
+Marywood University,18509,2300 Adams Avenue,,,Scranton,PA,Lackawanna County,US,2141,{7CFD26EC-2A69-E111-92F0-005056837252}
+Keystone College,18440,Honors Program,One College Green,,La Plume,PA,Lackawanna County,US,67876,{07AD2EE6-2A69-E111-92F0-005056837252}
+Indiana University Southeast,47150,4201 Grant Line Road,,,New Albany,IN,Floyd County,US,279,{0DAD2EE6-2A69-E111-92F0-005056837252}
+Eastern Connecticut State University,06226,Honors,83 Windham St.,,Willimantic,CT,Windham County,US,80472,{D64BDDD8-E8F1-E111-AF58-0050569C003B}
+University of Nebraska-Omaha,68182-0218,KH208,UNO,,Omaha,NE,Douglas County,US,700,{7BFD26EC-2A69-E111-92F0-005056837252}
+Texas Tech University,79409,Box 41017,1503 Akron Ave.,,Lubbock,TX,,US,172627,{29DC656B-C72E-E411-904E-0050569C32C4}
+University of Wisconsin-Milwaukee,53201,PO Box 413,Honors House 154,,Milwaukee,WI,Milwaukee County,US,752,{6EAF21F2-2A69-E111-92F0-005056837252}
+St. Louis Community College - Florissant Valley,63135-4244,Honors Coordinator,3400 Pershall Rd.,,St. Louis,MO,St. Louis County,US,560,{78FD26EC-2A69-E111-92F0-005056837252}
+Valdosta State University,31698,University Honors College,1500 N. Patterson St.,,Valdosta,GA,,US,80852,{6C55F8BB-B3F2-E111-AF58-0050569C003B}
+Neumann University,19014-1298,One Neumann Dr.,,,Aston,PA,Delaware County,US,408,{68AF21F2-2A69-E111-92F0-005056837252}
+Grand Rapids Community College,49503,143 Bostwick Avenue,,,Grand Rapids,MI,,US,89468,{2E746D4F-3B0E-E211-AF59-0050569C003B}
+College of Lake County,60030,19351 West Washington Street,Office B249,,Grayslake,IL,Lake County,US,115,{6AAF21F2-2A69-E111-92F0-005056837252}
+NHL University of Applied Sciences,,,,,,,,Netherlands,172919,{33453A70-7939-E411-904E-0050569C32C4}
+University of Vermont,05405,Honors College,50 University Heights,,Burlington,VT,Chittenden County,US,87069,{26ECF1A4-0108-E211-AF59-0050569C003B}
+The College of St. Scholastica,55811,Honors Program,1200 Kenwood Ave.,,Duluth,MN,St. Louis County,US,124,{72AF21F2-2A69-E111-92F0-005056837252}
+Bluegrass Community and Technical College,40506,AT 101-G,,,Lexington,KY,Fayette County,US,2112,{6DAF21F2-2A69-E111-92F0-005056837252}
+City University of New York-Brooklyn College,11210-2889,Honors Academy,2900 Bedford Ave RM. 2231B,,Brooklyn,NY,Kings County,US,95,{6FAF21F2-2A69-E111-92F0-005056837252}
+University of Central Arkansas,72035,Honors College,P.O. Box 5024,,Conway,AR,Faulkner County,US,639,{7AFD26EC-2A69-E111-92F0-005056837252}
+Bryant University,02917,A-7 1150 Douglas Pike,,,Smithfield,RI,Providence County,US,68592,{AA9C9EF4-5173-E111-B258-0050569C003B}
+Concordia University Chicago,60305-1499,Director of the Honors Program,7400 Augusta St.,,River Forest,IL,Cook County,US,168497,{54F39E77-F10F-E311-BD48-0050569C003B}
+Sauk Valley Community College,61021,173 Illinois Rt. 2,,,Dixon,IL,Lee County,US,517,{71AF21F2-2A69-E111-92F0-005056837252}
+Albany College of Pharmacy and Health Sciences,12208,106 New Scotland Avenue,,,Albany,NY,,US,172090,{1691F3F6-C9DA-E311-8578-0050569C32C4}
+Youngstown State University,44555,University Scholars and Honors Prog,One University Plaza,,Youngstown,OH,Mahoning County,US,809,{7CAF21F2-2A69-E111-92F0-005056837252}
+Benedictine College,66002,1020 N 2nd Street,,,Atchison,KS,,US,87182,{3C92652D-1708-E211-AF59-0050569C003B}
+Northwest Nazarene University,83686,623 Holly Street,,,Nampa,ID,Canyon County,US,1413,{74AF21F2-2A69-E111-92F0-005056837252}
+Albany State University,31705,504 College Drive,"ACAD Bldg, 291-B",,Albany,GA,Dougherty County,US,3,{83FD26EC-2A69-E111-92F0-005056837252}
+Gallaudet University,20002-3695,"Director, Honors Program, SAC 1226",800 Florida Ave. NE,,Washington,DC,District of Columbia,US,209,{75AF21F2-2A69-E111-92F0-005056837252}
+University of Arkansas-Fort Smith,72913,5210 Grand Avenue,P.O. Box 3649,,Fort Smith,AR,Sebastian County,US,632,{76AF21F2-2A69-E111-92F0-005056837252}
+Massachusetts College of Liberal Arts,01247,Honors Program,375 Church St.,,North Adams,MA,Berkshire County,US,2243,{77AF21F2-2A69-E111-92F0-005056837252}
+San Diego State University,92182-1623,5500 Campanile Drive AD 201 B,,,San Diego,CA,San Diego County,US,512,{78AF21F2-2A69-E111-92F0-005056837252}
+Reading Area Community College,19603-1706,P.O. Box 1706,10 S. 2nd St.,,Reading,PA,Berks County,US,485,{79AF21F2-2A69-E111-92F0-005056837252}
+Eastern Michigan University,48197,Honors Program,400 Pierce Hall,,Ypsilanti,MI,Washtenaw County,US,172,{7AAF21F2-2A69-E111-92F0-005056837252}
+Southwestern Oklahoma State University,73096-3098,100 Campus Dr,,,Weatherford,OK,Custer County,US,168397,{F06906F2-4A0F-E311-BD48-0050569C003B}
+University of North Georgia,30503,University of North Georgia,Gainesville Campus | Dunlap-Mathis 144,,Gainesville,GA,Hall County,US,81092,{90F2D52D-A6F4-E111-AF58-0050569C003B}
+MiraCosta College,92056,One Barnard Drive,,,Oceanside,CA,San Diego County,US,864,{82AF21F2-2A69-E111-92F0-005056837252}
+University of Alabama at Birmingham,35294-4450,University Honors Program,HOH,1720 2nd Ave. South,Birmingham,AL,Jefferson County,US,622,{81FD26EC-2A69-E111-92F0-005056837252}
+Hilbert College,14075,Honors Program,5200 S. Park Ave.,,Hamburg,NY,Erie County,US,236,{7DAF21F2-2A69-E111-92F0-005056837252}
+Glendale Community College-Arizona,85302,6000 W. Olive Ave.,,,Glendale,AZ,Maricopa County,US,173229,{878ED1FD-054B-E411-8997-0050569C32C4}
+Rochester Institute of Technology,14623-5603,21 Lomb Memorial Dr.,,,Rochester,NY,Monroe County,US,494,{7EAF21F2-2A69-E111-92F0-005056837252}
+Oklahoma City Community College,73010,7777 S. May Avenue,,,Oklahoma City,OK,Oklahoma County,US,445,{81AF21F2-2A69-E111-92F0-005056837252}
+Villanova University,19085-1699,Honors Program,800 Lancaster Ave.,,Villanova,PA,Delaware County,US,767,{89AF21F2-2A69-E111-92F0-005056837252}
+Iowa State University,50011-1150,2130 Jischke Honors Building,,,Ames,IA,Story County,US,283,{14FD26EC-2A69-E111-92F0-005056837252}
+Wilmington College,45177,1870 Quaker Way Pyle Center Box 1242,,,Wilmington,OH,Clinton County,US,801,{86FD26EC-2A69-E111-92F0-005056837252}
+Mississippi State University,39759,Shackouls Honors College,P.O. Box EH,,Mississippi State,MS,Oktibbeha County,US,2289,{8AAF21F2-2A69-E111-92F0-005056837252}
+Cypress College,90630-5897,Honors Program,9200 Valley View St,Studen Center-2nd Floor,Cypress,CA,Orange County,US,143,{85AF21F2-2A69-E111-92F0-005056837252}
+Dominican University of California,94901,50 Acacia Ave.,,,San Rafael,CA,Marin County,US,156,{88AF21F2-2A69-E111-92F0-005056837252}
+DePaul University,60614,University Honors Program,"990 W. Fullerton, Ste. 1300",,Chicago,IL,Cook County,US,95022,{8E12C10D-1713-E211-AF5A-0050569C003B}
+Bloomfield College,07003,Honors Program,467 Franklin St,,Bloomfield,NJ,Essex County,US,43,{8BAF21F2-2A69-E111-92F0-005056837252}
+University of Iowa,52242-0454,221 N. Clinton Street,447 Blank Honors Center,,Iowa City,IA,Johnson County,US,67860,{88FD26EC-2A69-E111-92F0-005056837252}
+Roger Williams University,02809,Honors Program,1 Old Ferry Rd.,,Bristol,RI,Bristol County,US,146041,{5C3D3FD0-DCB8-E211-BD45-0050569C003B}
+University of Massachusetts-Boston,02125,"100 Morrissey Blvd. Honors College, Campus Center",,,Boston,MA,Suffolk County,US,675,{8CAF21F2-2A69-E111-92F0-005056837252}
+Palm Beach Atlantic University,33416,Frederick M. Supper Honors Program,P.O. Box 24708,,West Palm Beach,FL,Palm Beach County,US,458,{8DAF21F2-2A69-E111-92F0-005056837252}
+"University of Maryland, Baltimore County",21250,UMBC Honors College,1000 Hilltop Circle L216L,,Baltimore,MD,Baltimore County,US,1469,{91AF21F2-2A69-E111-92F0-005056837252}
+Delta College,48710,1961 Delta Road,,,University Center,MI,,US,169424,{4EF92741-8D19-E311-BD48-0050569C003B}
+Colby-Sawyer College,03257-7818,541 Main Street,,,New London,NH,Merrimack County,US,112,{95AF21F2-2A69-E111-92F0-005056837252}
+Dutchess Community College,12601,"Dept. of History, Gov. & Econ.",53 Pendell Rd,,Poughkeepsie,NY,Dutchess County,US,163,{92AF21F2-2A69-E111-92F0-005056837252}
+Otterbein University,43081,University Honors Program,1 S. Grove St.,,Westerville,OH,Franklin County,US,171262,{E4871316-6741-E311-842D-0050569C003B}
+Hamline University,55104-1284,1536 Hewitt Avenue Box 240,,,Saint Paul,MN,Ramsey County,US,68073,{2830562C-9C6E-E111-B258-0050569C003B}
+University of Louisiana at Monroe,71209,700 University Aavenue,,,Monroe,LA,Ouachita Parish,US,67711,{8BFD26EC-2A69-E111-92F0-005056837252}
+Baldwin Wallace University,44017,Honors Program Director,275 Eastland Rd.,,Berea,OH,Cuyahoga County,US,68646,{B6EECDB7-318E-E111-B258-0050569C003B}
+Houston Community College,77002,MC 1126,3100 Main,,Houston,TX,Howard County,US,262,{97AF21F2-2A69-E111-92F0-005056837252}
+King University,37620-2699,1350 King College Rd,,,Bristol,TN,Sullivan County,US,172073,{5B3CF8D6-C2D6-E311-8578-0050569C32C4}
+The University of Texas at Tyler,75799,Department of Literature & Languages,3900 University Blvd.,,Tyler,TX,Smith County,US,1479,{A4AF21F2-2A69-E111-92F0-005056837252}
+University of Pittsburgh,15260-6499,Honors College,3500 Cathedral of Learning,,Pittsburgh,PA,,US,2230,{9EAF21F2-2A69-E111-92F0-005056837252}
+University of Colorado-Boulder,80309-0033,Honors RAP 33 UCB,,,Boulder,CO,Boulder County,US,644,{8CFD26EC-2A69-E111-92F0-005056837252}
+Defiance College,43512,McMaster School for Advancing Humanity,701 N. Clinton St.,,Defiance,OH,Defiance County,US,148,{93FD26EC-2A69-E111-92F0-005056837252}
+Whitworth University,99251,300 W Hawthorne Rd,,,Spokane,WA,Spokane County,US,88425,{28DB1017-0D0C-E211-AF59-0050569C003B}
+State University of New York-New Paltz,12561,"1 Hawk Drive State University of New York, New Paltz","Honors Program, CHH-111",,New Paltz,NY,Ulster County,US,2170,{9AAF21F2-2A69-E111-92F0-005056837252}
+The University of Mississippi,38677,Sally McDonnell Barksdale Honors College,1 Sorority Row,,University,MS,,US,682,{9CAF21F2-2A69-E111-92F0-005056837252}
+Huston-Tillotson University,78702,W.E.B. DuBois Honors Program,900 Chicon St.,,Austin,TX,Travis County,US,265,{455D36E0-2A69-E111-92F0-005056837252}
+La Sierra University,92515-8247,South Hall #100,4500 Riverwalk Parkway,,Riverside,CA,Riverside County,US,171976,{E804E3B6-77B6-E311-97FD-0050569C003B}
+Ashland University,44805,"Director, Academic Honors Program",401 College Ave.,,Ashland,OH,Ashland County,US,21,{A3AF21F2-2A69-E111-92F0-005056837252}
+Augustana College,57197,Civitas Honors Program,Center for Western Studies,,Sioux Falls,SD,Minnehaha County,US,1274,{56FD26EC-2A69-E111-92F0-005056837252}
+Dominican University,60305-1066,7900 West Division Street,,,River Forest,IL,Cook County,US,68011,{3C52CA1D-146D-E111-A07E-0050569C003C}
+Rowan University,08028,201 Mullica Hill Rd. Whitney Center 2nd floor,,,Glassboro,NJ,,US,172209,{683F80A6-3B01-E411-8578-0050569C32C4}
+Muhlenberg College,18104,2400 Chew Street,,,Allentown,PA,Lehigh County,US,1284,{A2AF21F2-2A69-E111-92F0-005056837252}
+Loyola Marymount University,90045-2659,University Honors Program,"One LMU Dr., Ste. 3600",,Los Angeles,CA,Los Angeles County,US,173277,{C9694111-0653-E411-8997-0050569C32C4}
+University of Arkansas Community College Morrilton,72110,1537 University Blvd.,,,Morrilton,AR,,US,107994,{6837E4FD-F445-E211-B878-0050569C003B}
+Concordia University-Portland,97211,2811 N.E. Holman St.,,,Portland,OR,Multnomah County,US,1182,{94FD26EC-2A69-E111-92F0-005056837252}
+Frederick Community College,21702,Honors College,7932 Oppossumtown Pike,,Frederick,MD,Frederick County,US,205,{ABAF21F2-2A69-E111-92F0-005056837252}
+Thiel College,16125-2181,Dietrich Honors Institute,75 College Ave.,,Greenville,PA,Mercer County,US,69874,{10974B1C-0E96-E111-B258-0050569C003B}
+Meridian Community College,39307,910 Highway 19 North,,,Meridian,MS,,US,113747,{2A684164-2C67-E211-B10B-0050569C003B}
+Henderson State University,71999-0001,Honors College,HSU Box 7684,,Arkadelphia,AR,Clark County,US,235,{A7AF21F2-2A69-E111-92F0-005056837252}
+Belmont University,37212-3757,Honors Program,1900 Belmont Blvd.,,Nashville,TN,,US,77627,{1CB42637-3EE7-E111-89B0-0050569C003B}
+Columbus State University,31907-5645,Honors Program,4225 University Ave.,,Columbus,GA,Muscogee County,US,132,{CDFC26EC-2A69-E111-92F0-005056837252}
+University of Virginia-Main Campus,22903,138 Monroe Hall,,,Charlottesville,VA,,US,163799,{12ED87F8-7AFD-E211-BD48-0050569C003B}
+Hogeschool van Amsterdam University of Applied Sciences,,Mercurius 8,"1785 AH, Noord-Holland",,Den Helder,,,Netherlands,68066,{64EA833A-F26D-E111-B258-0050569C003B}
+Claflin University,29115,Honors College,400 Magnolia St.,,Orangeburg,SC,Orangeburg County,US,68009,{3A52CA1D-146D-E111-A07E-0050569C003C}
+Stephen F. Austin State University,75962-6114,"P.O. Box 6114, SFA Station",1936 North St.,,Nacogdoches,TX,Nacogdoches County,US,576,{A8AF21F2-2A69-E111-92F0-005056837252}
+Jefferson College,63050,Honors Program,1000 Viking Dr.,,Hillsboro,MO,Jefferson County,US,172910,{33C47A5B-2639-E411-904E-0050569C32C4}
+Mt. San Antonio College,91789-1399,1100 N. Grand Ave.,,,Walnut,CA,Los Angeles County,US,172856,{7F49D141-9637-E411-904E-0050569C32C4}
+High Point University,27262,833 Montlieu Ave. David Hayworth Hall 200,,,High Point,NC,Guilford County,US,1580,{495D36E0-2A69-E111-92F0-005056837252}
+Orange County Community College,10940,115 South Street,,,Middletown,NY,Orange County,US,571,{ACAF21F2-2A69-E111-92F0-005056837252}
+Moraine Valley Community College,60465-2478,9000 W. College Pkwy,,,Palos Hills,IL,Cook County,US,112724,{B0B06C9F-6C65-E211-B10B-0050569C003B}
+Randolph-Macon College,23005,204 Henry Street,,,Ashland,VA,Hanover County,US,67492,{B7AF21F2-2A69-E111-92F0-005056837252}
+Simmons College,02115,300 The Fenway Room C313,,,Boston,MA,Suffolk County,US,529,{8FFD26EC-2A69-E111-92F0-005056837252}
+The Community College of Baltimore County,21222-4694,7200 Sollers Point Road,,,Baltimore,MD,,US,134,{90FD26EC-2A69-E111-92F0-005056837252}
+Scottsdale Community College,85256,Honors Program,9000 E. Chaparral Rd.,,Scottsdale,AZ,,US,2894,{744BE769-2B69-E111-92F0-005056837252}
+Francis Marion University,29505-0547,Honors Program,P.O. Box 100547,,Florence,SC,,US,115308,{94F8EA92-B56F-E211-B10B-0050569C003B}
+Macaulay Honors College at CUNY,10023,Associate Dean of Teaching and Learning,35 West 67th Street,,New York,NY,,US,949,{ADAF21F2-2A69-E111-92F0-005056837252}
+Carthage College,53140,2001 Alford Park Drive,,,Kenosha,WI,,US,141023,{047E6DCC-1EB4-E211-BD45-0050569C003B}
+Scott Community College,52722,500 Belmont Rd.,,,Bettendorf,IA,,US,520,{AEAF21F2-2A69-E111-92F0-005056837252}
+Utrecht University of Applied Sciences HU,3508 AB,Postbus 85083,,,Utrecht,,,Netherlands,168234,{82BCA943-060C-E311-BD48-0050569C003B}
+Plymouth State University,03264,17 High St. MSC 38,,,Plymouth,NH,,US,170283,{08E1EDD5-AC2A-E311-BD49-0050569C003B}
+University of Wisconsin-Eau Claire,54701-4004,105 Garfield Ave. SSS 209,,,Eau Claire,WI,Eau Claire County,US,749,{92FD26EC-2A69-E111-92F0-005056837252}
+University of Nevada-Reno,89557-0128,MS 0112,1664 N. Virginia Street,,Reno,NV,Washoe County,US,702,{95FD26EC-2A69-E111-92F0-005056837252}
+Utrecht University,,Campusplein 1,Utrecht 3584 Ed.,,Utrecht,,,Netherlands,68001,{5A4EFBBC-7C6C-E111-B258-0050569C003B}
+Catawba College,28144,2300 W. Innes St.,,,Salisbury,NC,Rowan County,US,66501,{A4FD26EC-2A69-E111-92F0-005056837252}
+Robert Morris University,15237,6001 University Blvd,,,Moon Township,PA,Allegheny County,US,896,{97FD26EC-2A69-E111-92F0-005056837252}
+Loras College,52001,1450 Alta Vista,,,Dubuque,IA,Dubuque County,US,172750,{C6395EA9-4634-E411-904E-0050569C32C4}
+U.S. Air Force Academy,80840,"2354 Fairchild Drive, Suite 6F-128",Department of Air Force/ HQ USAFA/DF/DFSI,,Colorado Springs,CO,,US,68045,{6052CA1D-146D-E111-A07E-0050569C003C}
+Felician College,07644,262 S. Main St.,,,Lodi,NJ,Bergen County,US,193,{B6AF21F2-2A69-E111-92F0-005056837252}
+Mississippi University for Women,39701,W-599 1100 College St.,,,Columbus,MS,Lowndes County,US,379,{B1AF21F2-2A69-E111-92F0-005056837252}
+City University of New York-College of Staten Island,10314,2800 Victory Blvd. Bldg. 1A-211D,,,Staten Island,NY,Richmond County,US,2241,{98FD26EC-2A69-E111-92F0-005056837252}
+Middle Tennessee State University,37132-3100,Honors College,"1500 Greenland Dr., Box 267",,Murfreesboro,TN,Rutherford County,US,369,{9AFD26EC-2A69-E111-92F0-005056837252}
+Benedictine University,60532-0900,5700 College Rd.,,,Lisle,IL,DuPage County,US,173329,{85EAABD7-D25E-E411-A09A-0050569C32C4}
+Hampden-Sydney College,23943,Honors Program,Box 165,,Hampden-Sydney,VA,Prince Edward County,US,226,{B2AF21F2-2A69-E111-92F0-005056837252}
+University of Saint Joseph,06117,Honors Director,1678 Asylum Avenue,,West Hartford,CT,,US,75814,{AC9FE573-D3DF-E111-89B0-0050569C003B}
+Des Moines Area Community College,50023,2006 S Ankeny Blvd Borgen Administration Center,,,Ankeny,IA,Polk County,US,67799,{02FD26EC-2A69-E111-92F0-005056837252}
+University of Pennsylvania/PLE,19104,3624 Market Street,Suite 5W,,Philadelphia,PA,,US,118652,{8432B2E1-917B-E211-B10B-0050569C003B}
+University of Arkansas at Pine Bluff,71601,Mail Slot 4931,1200 N. University,,Pine Bluff,AR,,US,2262,{9CFD26EC-2A69-E111-92F0-005056837252}
+Rockhurst University,64110-2561,1100 Rockhurst Rd.,,,Kansas City,MO,Jackson County,US,495,{BDAF21F2-2A69-E111-92F0-005056837252}
+Hartwick College,13820,Honors Program,One Hartwick Dr.,,Oneonta,NY,Otsego County,US,232,{BEAF21F2-2A69-E111-92F0-005056837252}
+University of Central Florida,32816-1800,Dean of The Burnett Honors College,4000 Central Florida Blvd.,Bldg. 95 #105 P.O. Box 161800,Orlando,FL,Orange County,US,641,{BAAF21F2-2A69-E111-92F0-005056837252}
+Bennett College for Women,27401-3239,900 E Washington St,,,Greensboro,NC,Guilford County,US,172860,{5713CFA7-3538-E411-904E-0050569C32C4}
+Lee College - Texas,77522-0818,P.O. Box 818,,,Baytown,TX,,US,169901,{ACFC059C-421F-E311-BD48-0050569C003B}
+Daemen College,14226,4380 Main Str.,,,Amherst,NY,Erie County,US,67409,{BBAF21F2-2A69-E111-92F0-005056837252}
+Curry College,02186,Honors Program,1071 Blue Hill Ave.,,Milton,MA,Norfolk County,US,141,{BCAF21F2-2A69-E111-92F0-005056837252}
+Collin College,75075,Honors Institute Chair,2800 East Spring Creek Pkwy.,,Plano,TX,,US,127363,{126741ED-E290-E211-B10B-0050569C003B}
+Fairleigh Dickinson University-Metro,07666,1000 River Road T Rh2-07,,,Teaneck,NJ,Bergen County,US,189,{C3AF21F2-2A69-E111-92F0-005056837252}
+Montclair State University,07043,1 Normal Avenue,Honors Program,,Montclair,NJ,Essex County,US,1194,{C4AF21F2-2A69-E111-92F0-005056837252}
+Texas Christian University,76129,Honors Program,TCU Box 297022,,Fort Worth,TX,Tarrant County,US,598,{9FFD26EC-2A69-E111-92F0-005056837252}
+Southern Nazarene University,73008,6729 NW 39th Expressway,,,Bethany,OK,Oklahoma County,US,543,{4A5D36E0-2A69-E111-92F0-005056837252}
+Eastfield College,75150-2099,3737 Motley Dr,,,Mesquite,TX,,US,110514,{7679854A-385B-E211-B878-0050569C003B}
+Ohio University,45701,35 Park Place /Honors Tutorial College,,,Athens,OH,Athens County,US,442,{C1AF21F2-2A69-E111-92F0-005056837252}
+Azusa Pacific University,91702-7000,901 E. Alosta Avenue,,,Azusa,CA,Los Angeles County,US,30,{16AF21F2-2A69-E111-92F0-005056837252}
+Rotterdam University of Applied Sciences,3015 EK,afd. Concernstrategie,Rochussenstraat 198,,Rotterdam,,,Netherlands,69958,{8E0C6046-2BAB-E111-B259-0050569C003B}
+University of Southern Mississippi,39406-0001,P.O. Box 5162,118 College Dr.,,Hattiesburg,MS,Forrest County,US,172469,{6E1F5120-6721-E411-904E-0050569C32C4}
+San Jacinto College District-Central Campus,77089-6099,13735 Beamer Rd,,,Houston,TX,,US,135329,{565F519F-3BAC-E211-B6C0-0050569C003C}
+Santa Clara University,95053-0638,University Honors Program,500 El Camino Real,,Santa Clara,CA,,US,168645,{BA549E0A-EE10-E311-BD48-0050569C003B}
+Long Beach City College,90808,Honors Program,4901 E. Carson St.,,Long Beach,CA,Los Angeles County,US,172547,{58846641-6329-E411-904E-0050569C32C4}
+City University of New York-Queens College,11367,65-30 Kissena Blvd.,"Honors Center, Room 19",,Flushing,NY,Queens County,US,98,{C2AF21F2-2A69-E111-92F0-005056837252}
+Wingate University,28174,Campus Box 3031,Camden St.,,Wingate,NC,,US,1446,{59E7F15D-2B69-E111-92F0-005056837252}
+Saint Leo University,33574,Honors Program,"Box 6665, MC 2127",,Saint Leo,FL,Pasco County,US,503,{FFAF21F2-2A69-E111-92F0-005056837252}
+Anne Arundel Community College,21012-1895,101 College Parkway LIBR 111,,,Arnold,MD,Anne Arundel County,US,151864,{6A3E1E37-49D4-E211-BD48-0050569C003B}
+Ferrum College,24088,Honors Director,205 Ferrum Mountain Road,Britt 200,Ferrum,VA,Franklin County,US,68016,{4152CA1D-146D-E111-A07E-0050569C003C}
+Louisiana State University at Alexandria,71302,8100 Highway 71 South,,,Alexandria,LA,Rapides Parish,US,172144,{74B24983-E7EC-E311-8578-0050569C32C4}
+Lock Haven University of Pennsylvania,17745,401 N Fairview St. - Honors House,,,Lock Haven,PA,Clinton County,US,2034,{CBAF21F2-2A69-E111-92F0-005056837252}
+Wayne State College,68787,Honors Program,1111 Main Street,,Wayne,NE,,US,2069,{EB4CE769-2B69-E111-92F0-005056837252}
+Merrimack College,01845,315 Turnpike Street,Sullivan 101,,North Andover,MA,Essex County,US,1360,{A1FD26EC-2A69-E111-92F0-005056837252}
+Saint Peter's University,07306,2641 Kennedy Blvd.,,,Jersey City,NJ,Hudson County,US,1038,{C6AF21F2-2A69-E111-92F0-005056837252}
+"California State University, Northridge",91330,18111 Nordhoff Street,,,Northridge,CA,Los Angeles County,US,1607,{A2FD26EC-2A69-E111-92F0-005056837252}
+University of Georgia,30602,University Honors Program,115 Moore College,,Athens,GA,Clarke County,US,652,{C7AF21F2-2A69-E111-92F0-005056837252}
+University of Maine at Augusta,04330,46 University Dr.,,,Augusta,ME,,US,84316,{80D0AA2C-1101-E211-AF59-0050569C003B}
+Saint Anselm College,03102-1310,Campus Box 1649,100 Saint Anselm Drive,,Manchester,NH,Hillsborough County,US,171356,{46EA3F21-ED82-E311-842D-0050569C003B}
+University of Illinois at Chicago,60607-7031,Honors College,828 S. Halstead Street M/C 204,,Chicago,IL,Cook County,US,2282,{C8AF21F2-2A69-E111-92F0-005056837252}
+Alvernia University,19607,Honors Program,400 Saint Bernardine St.,,Reading,PA,Berks County,US,68003,{3452CA1D-146D-E111-A07E-0050569C003C}
+Slippery Rock University of Pennsylvania,16057,Honors Program,One Morrow Way,,Slippery Rock,PA,San Mateo County,US,531,{CCAF21F2-2A69-E111-92F0-005056837252}
+University of California-Los Angeles,90095-1414,405 Hilgard Avenue A-311 Murphy Hall,,,Los Angeles,CA,Los Angeles County,US,67569,{D2AF21F2-2A69-E111-92F0-005056837252}
+Portland Community College,97217,705 N. Killingsworth CA TH 232,,,Portland,OR,Multnomah County,US,1381,{D0AF21F2-2A69-E111-92F0-005056837252}
+Hogeschool van Amsterdam,1091 GM,Wibautstraat 2-4,,,Amsterdam,(Non U.S.),,Netherlands,169237,{2277ED4C-5515-E311-BD48-0050569C003B}
+Baylor University,76798-7122,Honors Program,One Bear Pl. #97122,,Waco,TX,McLennan County,US,35,{CDAF21F2-2A69-E111-92F0-005056837252}
+University of Kentucky,40506-0027,Honors Program,355 Patterson Office Tower,,Lexington,KY,Fayette County,US,117750,{843ADE37-7A77-E211-B10B-0050569C003B}
+Cameron University,73505-6377,2800 W. Gore Blvd.,Honors Program,,Lawton,OK,Comanche County,US,81674,{78A5B93E-75F7-E111-AF58-0050569C003B}
+Windesheim,8017 CA,Campus 2-6,,,Zwolle,,,Netherlands,172920,{FB5AD446-AD39-E411-904E-0050569C32C4}
+Northern Michigan University,49855-5352,1401 Presque Isle Ave.,,,Marquette,MI,Marquette County,US,432,{CEAF21F2-2A69-E111-92F0-005056837252}
+Frostburg State University,21532-1099,Honors Program,101 Braddock Road Fuller House,,Frostburg,MD,,US,67790,{98E8F15D-2B69-E111-92F0-005056837252}
+Worcester State University,01602,Sullivan 129C,486 Chandler St.,,Worcester,MA,Worcester County,US,68052,{6752CA1D-146D-E111-A07E-0050569C003C}
+Paine College,30901,1235 Fifteenth Street,Director of the Honors Program,,Augusta,GA,Richmond County,US,173239,{A5824067-2E4B-E411-8997-0050569C32C4}
+University of New Haven,06516,300 Boston Post Road,,,West Haven,CT,New Haven County,US,68046,{6152CA1D-146D-E111-A07E-0050569C003C}
+Mansfield University of Pennsylvania,16933,Honors Director,Allen Hall,,Mansfield,PA,,US,1081,{D1AF21F2-2A69-E111-92F0-005056837252}
+Cabrini College,19087-,Honors Program,610 King of Prussia Road,,Radnor,PA,Delaware County,US,834,{08AD2EE6-2A69-E111-92F0-005056837252}
+Georgia Gwinnett College,30043,1000 University Center Lane,,,Lawrenceville,GA,Gwinnett County,US,108886,{B6D857B6-1F55-E211-B878-0050569C003B}
+Everett Community College,,2000 Tower Street,,,Everett,WA,Snohomish County,US,171366,{20A702A6-6284-E311-842D-0050569C003B}
+Emporia State University,66801,Director of ESU Honors Program,1200 Commercial Dept. of Modern Languages,Campus Box 4024,Emporia,KS,Lyon County,US,173163,{ACBD0BD4-F53F-E411-904E-0050569C32C4}
+Miami University Regional Campuses,45011,1601 University Blvd,,,Hamilton,OH,,US,171322,{94ED4B2B-E160-E311-842D-0050569C003B}
+Loyola University New Orleans,70118,University Honors Program,Loyola University New Orleans Box 75,6363 St. Charles Avenue,New Orleans,LA,Orleans Parish,US,2195,{D4AF21F2-2A69-E111-92F0-005056837252}
+Ozarks Technical Community College,65810,1001 East Chestnut Expressway,,,Springfield,MO,Greene County,US,872,{D6AF21F2-2A69-E111-92F0-005056837252}
+St. Petersburg College,33765,Clearwater Campus,2645 Drew Street,,Clearwater,FL,,US,1305,{D9AF21F2-2A69-E111-92F0-005056837252}
+Oklahoma City University,73106,University Honors Program,2501 N. Blackwelder,,Oklahoma City,OK,Oklahoma County,US,444,{E3AF21F2-2A69-E111-92F0-005056837252}
+University of Kansas,66045,1506 Engel Rd,Nunemaker Center,,Lawrence,KS,Douglas County,US,172163,{F089B9BA-DEF0-E311-8578-0050569C32C4}
+Sam Houston State University,77341-2479,The Elliott T. Bowers Honors College,P.O. Box 2479,,Huntsville,TX,Walker County,US,509,{DDAF21F2-2A69-E111-92F0-005056837252}
+Northeast Texas Community College,75456-1307,Honors Director,P.O. Box 1307,,Mount Pleasant,TX,Titus County,US,423,{DAAF21F2-2A69-E111-92F0-005056837252}
+Cuyahoga Community College,44130,11000 Pleasant Valley Rd. B-145,,,Parma,OH,Cuyahoga County,US,2265,{B85D36E0-2A69-E111-92F0-005056837252}
+Inter American Univ. of Puerto Rico-Ponce,00715-1602,Honors Program,104 Turpeaux Industrial Park Rd 1,,Mercedita,PR,Ponce Municipio,US,67442,{DCAF21F2-2A69-E111-92F0-005056837252}
+Wartburg College,50677,100 Wartburg Blvd,,,Waverly,IA,,US,172028,{FEA2A7AD-41CF-E311-97FD-0050569C32C4}
+Northern Kentucky University,41099,Honors House Nunn Drive,,,Highland Heights,KY,Campbell County,US,431,{09AD2EE6-2A69-E111-92F0-005056837252}
+Binghamton University State University of New York,13902-6000,Binghamton Scholars Program,P.O. Box 6000,,Binghamton,NY,Broome County,US,566,{E4AF21F2-2A69-E111-92F0-005056837252}
+Casper College,82601,125 College Drive,,,Casper,WY,,US,1493,{2CFCEE63-2B69-E111-92F0-005056837252}
+Columbia College - South Carolina,29203,Honors Program,1301 Columbia College Dr.,,Columbia,SC,Tuolumne County,US,131,{DEAF21F2-2A69-E111-92F0-005056837252}
